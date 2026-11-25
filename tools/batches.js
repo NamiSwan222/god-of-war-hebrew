@@ -91,6 +91,7 @@ function make(termsOnly) {
 }
 
 function check(name) {
+  const keepLatin = new Set(readJson(path.join(__dirname, 'glossary.json'), { keepLatin: [] }).keepLatin || []);
   const input = readJson(path.join(IN, `${name}.json`), null);
   if (!input) throw new Error(`no batch ${name}`);
   const output = readJson(path.join(OUT, `${name}.json`), null);

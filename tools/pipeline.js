@@ -91,7 +91,8 @@ function apply(gameDir, batch) {
   for (const { id, he: text } of list) {
     if (!(id in en)) throw new Error(`apply: unknown string id ${id}`);
     if (typeof text !== 'string' || !text.trim()) throw new Error(`apply: empty translation for ${id}`);
-    he[id] = { src: srcHash(en[id]), he: text };
+    // No niqqud/cantillation (U+0591-U+05C7 except maqaf U+05BE): the game font cannot place combining marks.
+    he[id] = { src: srcHash(en[id]), he: text.replace(/[֑-ֽֿ-ׇ]/g, '') };
     applied++;
   }
   const sorted = Object.fromEntries(Object.keys(he).sort((a, b) => Number(a) - Number(b)).map((k) => [k, he[k]]));
@@ -102,7 +103,7 @@ function apply(gameDir, batch) {
 // Latin words allowed inside Hebrew (button names, tech terms): glossary.keepLatin + short caps.
 function latinLeftovers(text, keepLatin) {
   // literal "\n" is a line break; "1080p" is a number with a unit, not an English word
-  const words = readable(text).replace(/\\n/g, ' ').match(/(?<![0-9A-Za-z])[A-Za-z][A-Za-z0-9']*/g) || [];
+  const words = readable(text).replace(/\\n/g, ' ').replace(/(?:https?:\/\/|www\.)\S+/g, ' ').match(/(?<![0-9A-Za-z])[A-Za-z][A-Za-z0-9']*/g) || [];
   return words.filter((w) => !keepLatin.has(w) && !/^[A-Z0-9]{1,5}$/.test(w));
 }
 
@@ -167,4 +168,4 @@ function build(installDir, gameDir) {
   return { replaced, stale, fonts, total: msgs.entries.length, sizeBefore: original.length, sizeAfter: patched.length, originalSha256: sha256(original), patchedSha256: sha256(patched), out: p.built };
 }
 
-module.exports = { readable, extract, queue, apply, coverage, build, toGameValue, needsTranslation, srcHash, LANG_WAD, paths };
+module.exports = { latinLeftovers, readable, extract, queue, apply, coverage, build, toGameValue, needsTranslation, srcHash, LANG_WAD, paths };
