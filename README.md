@@ -15,13 +15,14 @@ text. It contains no game files and no original English text.
 |---|---|
 | Text pipeline: extract → translate → coverage → build | ✅ works on the real game files (byte-identical rebuild) |
 | Launch-only activation: proxy `version.dll` + Steam argument | ✅ tested in the real game (Steam build 11168363) |
-| Hebrew font: glyphs added to the game's SDF fonts | ✅ built. ⚠️ not yet seen on screen in game |
-| Right to left: visual order, line wrapping | ✅ built. ⚠️ line widths not yet tuned in game |
-| Translation | 🟡 in progress (`node tools/cli.js coverage`) |
+| Hebrew font: glyphs added to the game's SDF fonts | ✅ seen in game: main menu renders correctly |
+| Right to left: visual order, spaces, mixed text | ✅ seen in game (main menu) |
+| Translation | ✅ 100%: 28,733 / 28,733 strings (`node tools/cli.js coverage`) |
+| Subtitle and description line widths (`tools/layout.json`) | ⚠️ set from the font size, not yet checked in a cutscene |
 | Text drawn into textures (logos, a few images) | ❌ not done |
 
-No release exists until coverage is 100% and Hebrew is checked in game. The launcher only shows the game once
-there is a release.
+Release 0.1.0 is the first complete version. Report lines that are too long or wrapped badly, and `tools/layout.json`
+gets tuned.
 
 ## How it works
 
@@ -29,8 +30,12 @@ there is a release.
   `MSGS_TXT`: `*<id>*` lines, each followed by its text. Subtitles start with `[[S:<speaker>:<sound>:<from>-<to>]]`,
   hints with `[[D::...]]`. Button icons are `[R3]` / `[EvadeButton]`, and menu line breaks are the two characters
   `\n`. Formats are in `tools/wad.js`, `tools/msgs.js`, and `tools/smf.js`; texture descriptor fields in `tools/font.js`.
-- **Right to left.** The engine draws left to right only. The build wraps each line itself (`tools/layout.json`) and
-  stores it reversed (`tools/rtl.js`). Button tokens, `%d`, numbers and Latin abbreviations stay readable.
+- **Right to left.** The build wraps each line itself (`tools/layout.json`) and stores it reversed (`tools/rtl.js`).
+  Button tokens, `%d`, numbers and Latin abbreviations stay readable. The engine still has the PS4 Arabic layout
+  path, and it fires on any Hebrew-block character: it reorders runs, keeps letters in stored order, and drops the
+  spaces between Hebrew words (tested in game). So the build stores each Hebrew letter as a Private Use Area character
+  (U+E000-U+E01A, `tools/pua.js`). The fonts carry the Hebrew glyphs under those code points, and the engine lays
+  the text out as plain left-to-right text.
 - **Font.** The game's fonts (Sony = body text, Copperplate = headings, GodOfWar = titles) are signed-distance-field
   atlases inside the same wad. The build renders the missing Hebrew letters as SDF glyphs at the same size and edge
   as the game's own glyphs (`tools/font/glyphs.py`). It doubles each atlas to 1024×1024 and adds the glyph records
