@@ -101,7 +101,8 @@ function apply(gameDir, batch) {
 
 // Latin words allowed inside Hebrew (button names, tech terms): glossary.keepLatin + short caps.
 function latinLeftovers(text, keepLatin) {
-  const words = readable(text).match(/[A-Za-z][A-Za-z0-9']*/g) || [];
+  // literal "\n" is a line break; "1080p" is a number with a unit, not an English word
+  const words = readable(text).replace(/\\n/g, ' ').match(/(?<![0-9A-Za-z])[A-Za-z][A-Za-z0-9']*/g) || [];
   return words.filter((w) => !keepLatin.has(w) && !/^[A-Z0-9]{1,5}$/.test(w));
 }
 
