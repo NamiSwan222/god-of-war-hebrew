@@ -7,6 +7,7 @@ const path = require('path');
 const { parseWad, writeWad, findEntry, HEADER } = require('../wad');
 const { parseMsgs, writeMsgs, splitTags } = require('../msgs');
 const pipeline = require('../pipeline');
+const { decode, encode } = require('../pua');
 
 function entry(name, data, type = 0x00010002) {
   const h = Buffer.alloc(HEADER);
@@ -103,7 +104,8 @@ test('extract -> queue -> apply -> coverage -> build', () => {
   assert.ok(fs.readFileSync(path.join(installDir, pipeline.LANG_WAD)).equals(before), 'build must not modify the install');
 
   const built = parseWad(fs.readFileSync(path.join(gameDir, 'work', 'build', 'r_lang_en.wad')));
-  const values = Object.fromEntries(parseMsgs(findEntry(built, 'MSGS_TXT').data).entries.map((e) => [e.id, e.value]));
+  const values = Object.fromEntries(parseMsgs(findEntry(built, 'MSGS_TXT').data).entries.map((e) => [e.id, decode(e.value)]));
+  assert.ok(!/[֐-׿]/.test(findEntry(built, 'MSGS_TXT').data.toString('utf8')), 'no Hebrew-block code point may reach the game');
   assert.strictEqual(values['100000'], '[[S::vo_lvl_pro_s010_010_kra_stem:1537-3447]].בורק ראשיה .דלי');
   assert.strictEqual(values['100001'], '.ןתיוולה ןזרג תא ליטהל ידכ R2 ץחל');
   assert.strictEqual(values['100002'], '{0}');
@@ -123,13 +125,20 @@ test('game update: changed English marks the translation stale and build skips i
 });
 
 test('long subtitles are wrapped before reversing, so lines read top to bottom', () => {
-  const v = pipeline.toGameValue('[[S::x:0-1]]Long line', 'אחת שתיים שלוש', { subtitleLineChars: 9, textLineChars: 0 });
+  const v = decode(pipeline.toGameValue('[[S::x:0-1]]Long line', 'אחת שתיים שלוש', { subtitleLineChars: 9, textLineChars: 0 }));
   assert.strictEqual(v, '[[S::x:0-1]]םייתש תחא\nשולש');
 });
 
 test('no subtitle tag or newline is lost: tags (with their newline) stay in front', () => {
   assert.deepStrictEqual(splitTags('[[S:SON:vo_x:1-2]]\nWhat is that?'), { tags: '[[S:SON:vo_x:1-2]]\n', text: 'What is that?' });
   assert.deepStrictEqual(splitTags('[[D::72::::::Combat]]\nPress [R3].'), { tags: '[[D::72::::::Combat]]\n', text: 'Press [R3].' });
-  const v = pipeline.toGameValue('[[S:SON:vo_x:1-2]]\nWhat is that?', 'מה זה?', { subtitleLineChars: 48 });
+  const v = decode(pipeline.toGameValue('[[S:SON:vo_x:1-2]]\nWhat is that?', 'מה זה?', { subtitleLineChars: 48 }));
   assert.strictEqual(v, '[[S:SON:vo_x:1-2]]\n?הז המ');
+});
+
+test('pua: Hebrew letters map to private-use code points and back; nothing else changes', () => {
+  assert.strictEqual(encode('א').codePointAt(0), 0xe000);
+  assert.strictEqual(encode('ת').codePointAt(0), 0xe01a);
+  assert.strictEqual(decode(encode('שלום, R2 %d [R3] ־׳״')), 'שלום, R2 %d [R3] ־׳״');
+  assert.strictEqual(encode('abc 123 .,!'), 'abc 123 .,!');
 });

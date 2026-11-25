@@ -18,6 +18,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Aesir | אסים |
 | Aim | כיוון |
 | Alfheim | אלפהיים |
+| Amulet | תליון |
 | Ancient | עתיק |
 | Ancients | הקדמונים |
 | Arcane | מסתורי |
@@ -32,6 +33,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Baldur | באלדר |
 | Barrier | מחסום |
 | Belt | חגורה |
+| Berserker | ברסרקר |
 | Blade | להב |
 | Blades | להבים |
 | Blades of Chaos | להבי הכאוס |
@@ -54,6 +56,8 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Cave | מערה |
 | Challenge | אתגר |
 | Chaos | כאוס |
+| Charge | הסתערות |
+| Charm | קסם |
 | Checkpoint | נקודת שמירה |
 | Chest | תיבה |
 | Codex | מאגר ידע |
@@ -95,6 +99,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Enemies | אויבים |
 | Enemy | אויב |
 | Epic | אפי |
+| Equip | צייד |
 | Essence | תמצית |
 | Etched | חרוט |
 | Evasive | חמקני |
@@ -112,6 +117,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Fire | אש |
 | Flame | להבה |
 | Focus | מיקוד |
+| Fog | ערפל |
 | Fortitude | עוז |
 | Fortune | שפע |
 | Fragment | שבר |
@@ -137,11 +143,17 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Hacksilver | כסף שבור |
 | Handle | ידית |
 | Handles | ידיות |
+| Haze | דוק |
 | Health | בריאות |
+| Healthstone | אבן ריפוי |
 | Heart | לב |
 | Heavy | כבד |
 | Heimdall | היימדאל |
 | Hel | הל |
+| Hel-Reaver | בוזז הל |
+| Hel-Traveler | נוסע הל |
+| Hel-Walker | מהלך הל |
+| Hel-Walkers | מהלכי הל |
 | Helheim | הלהיים |
 | Helmet | קסדה |
 | Hilt | ניצב |
@@ -173,6 +185,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Laufey | לאופיי |
 | Leather | עור |
 | Legendary | אגדי |
+| Legguards | מגיני רגליים |
 | Level | רמה |
 | Leviathan Axe | גרזן הלוויתן |
 | Light | אור |
@@ -181,6 +194,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Loot | שלל |
 | Lore | סיפורת |
 | Luck | מזל |
+| Magic | מאגיה |
 | Magma | מאגמה |
 | Magni | מאגני |
 | Map | מפה |
@@ -201,6 +215,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Niflheim | ניפלהיים |
 | Niflheim Maze | מבוך ניפלהיים |
 | Nightmare | סיוט |
+| Nine Realms | תשעת העולמות |
 | Nornir Chest | תיבת הנורנות |
 | Norns | הנורנות |
 | Odin | אודין |
@@ -208,6 +223,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Pauldron | כתפייה |
 | Pauldrons | כתפיות |
 | Perfect | מושלם |
+| Perk | יתרון |
 | Perseverance | התמדה |
 | Photo Mode | מצב צילום |
 | Plated | מצופה |
@@ -226,8 +242,12 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Ragnarök | ראגנרוק |
 | Rare | נדיר |
 | Ratatoskr | רטטוסקר |
+| Realm | עולם |
 | Realm Tear | קרע עולמות |
+| Realm travel | מסע בין העולמות |
+| Realms | עולמות |
 | Reaver | בוזז |
+| Recipe | מתכון |
 | Recovery | התאוששות |
 | Relic | שריד |
 | Resilience | חוסן |
@@ -244,6 +264,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Runic | רוני |
 | Runic Attack | התקפה רונית |
 | Runic Summon | זימון רוני |
+| Rush | דהירה |
 | Scroll | מגילה |
 | Seiðr | סיידר |
 | Settings | הגדרות |
@@ -253,6 +274,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Shield | מגן |
 | Shock | הלם |
 | Shop | חנות |
+| Shrine | מקדשון |
 | Sigil | חותם |
 | Sign | אות |
 | Sigrun | סיגרון |
@@ -260,7 +282,9 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Sindri | סינדרי |
 | Skill | מיומנות |
 | Skills | מיומנויות |
+| Slam | חבטה |
 | Smoldering | רוחש |
+| Socket | חריץ |
 | Soul | נשמה |
 | Sparta | ספרטה |
 | Spartan | ספרטני |
@@ -321,6 +345,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Worn | שחוק |
 | Wrath | חרון |
 | Wulver | וולבר |
+| Wurm | וורם |
 | XP | נקודות ניסיון |
 | Yggdrasil | איגדרסיל |
 | Zeus | זאוס |
@@ -329,7 +354,80 @@ Regenerate this page with `node tools/glossary-md.js`.
 
 | English | עברית |
 |---|---|
+| … mine | ... שלי |
+| …I guess… | ...אני מניח... |
+| ’kay then.… | אוקיי, אז…. |
+| ‘sssindriiiiiiii!’ | "סססינדריייייייי!" |
+| “and also Dwarves.” | "וגם גמדים." |
+| "As we are, | "כפי שאנו, |
+| “As we are, | "כפי שאנו, |
+| “Bergelmir the Beloved”… | "ברגלמיר האהוב"... |
+| “Brenna” | "ברנה" |
+| “Curse the Dwarf King, | "ארור מלך הגמדים, |
+| “Death itself I swallow / | "את המוות עצמו אני בולעת / |
+| “Death to the Raven God, | "מוות לאל העורב, |
+| “Don’t.” | "אל תציע." |
+| “Falcon, Hawk, and Turtle-Dove / | "בז, נץ ותור / |
+| “False Leader.” | "מנהיג כוזב." |
+| “Family”… | "משפחה"... |
+| “Feed me not, | "אל תאכילני, |
+| “Freedom” … | "חירות"... |
+| “From darkness… | "מפני החשכה… |
+| "Glory to Mótsognir, | "תהילה למוטסוגניר, |
+| “Go fuck yourself.” | "לך תזדיין." |
+| “go.” | "לך". |
+| “hi.” | "היי." |
+| “Í Gimsteini.” | "אי גימסטייני." |
+| “I told you so.” | "אמרתי לך." |
+| “Jötnar only” | "ענקים בלבד" |
+| “Kveikja” | "קווייקיה" |
+| “Leave them in Peace” | "הנח להם לנפשם" |
+| “Lemnos”… | "למנוס"... |
+| “Maðurinn sem gengur | "מאדורין סם גנגור |
+| “Niflheim, | "ניפלהיים, |
+| “No yoked beast, | "לא בהמה רתומה, |
+| “Oh.” | "אה." |
+| “Puny troll!”… | "טרול עלוב!"... |
+| "Retrograde”… | "לאחור"... |
+| “Seed.” | "זרע." |
+| “Starkaðr”— | "סטרקאדר"- |
+| “the oppressors.” | "המדכאים". |
+| “Thought is faster than wind.” | "המחשבה מהירה מהרוח." |
+| “thrall” is, but | "עבד" כאן, אבל |
+| “Trust is a gamble,” | "אמון הוא הימור", |
+| “Until gods grow good” | "עד שהאלים ייטיבו" |
+| “Used to?” | "נהגו"? |
+| “Wind”… | "רוח"... |
+| “Winds of Hel?” | "רוחות הל"? |
+| “Wow.” | "וואו". |
+| “You are naïve, foolish boy.” | "אתה תמים, ילד טיפש." |
+| “You know.” | "אתה יודע." |
+| “You’ve made a grave mistake,” | "עשיתם טעות חמורה", |
+| (angry scream) | (צעקה זועמת) |
+| (chuckles) | (מצחקק) |
+| (coughing) | (משתעל) |
+| (coughs) | (משתעל) |
+| (crying) | (בוכה) |
+| (distant voice) | (קול מרוחק) |
 | (Enable in Settings.) | (הפעל בהגדרות.) |
+| (gag) | (משתנק) |
+| (gasps) | (מתנשף) |
+| (giggles) | (מצחקק) |
+| (groan) | (גניחה) |
+| (growls angrily) | (נוהם בכעס) |
+| (growls) | (נוהם) |
+| (inhaled breath) | (שאיפת אוויר) |
+| (maniacal laughter) | (צחוק מטורף) |
+| (murmured reading) | (קורא בלחש) |
+| (practicing vocal warm-ups) | (מחמם את הקול) |
+| (sickly moan) | (גניחה חולנית) |
+| (sighs) | (נאנח) |
+| (slight cough) | (שיעול קל) |
+| (soft | (בכי |
+| (soft sobbing) | (בכי חרישי) |
+| (struggling sounds) | (קולות מאבק) |
+| (That means forever!) | (זה אומר לתמיד!) |
+| (Whistles an unpleasant tune) | (שורק מנגינה צורמת) |
 | [EconomyXP]  1880 (per helm) | [EconomyXP]  1880 (לכל קסדה) |
 | [EconomyXP]  200 (Per Upgrade) | [EconomyXP]  200 (לכל שדרוג) |
 | [EconomyXP] Acquired | הושגו [EconomyXP] |
@@ -373,26 +471,54 @@ Regenerate this page with `node tools/glossary-md.js`.
 | 50 Reaver Kills | 50 הריגות בוזזים |
 | 50 Shadow Kills | 50 הריגות צללים |
 | 6 Troll Kills | 6 הריגות טרולים |
+| A “brazier.” | "מחתה". |
+| A blood trail… | שובל של דם... |
+| A fine piece of work, | עבודה משובחת, |
 | A Hardened Svartalfheim Steel | פלדת סבארטאלפהיים מוקשחת אחת |
 | A King’s Last Words | המילים האחרונות של מלך |
 | A Legendary Favor | טובה אגדית |
+| A little privacy, please? / | קצת פרטיות, בבקשה? / |
 | A Match Made in Asgard | זיווג משמי אסגארד |
+| A mine… | מכרה... |
 | A New Destination | יעד חדש |
 | A New Friend | חבר חדש |
 | A New Journey Begins | מסע חדש מתחיל |
 | A Path To Jötunheim | דרך ליוטונהיים |
-| A Realm Beyond | עולם שמעבר |
+| A Realm Beyond | ממלכה שמעבר |
 | A Seiðr Curse | קללת סיידר |
+| A small… | עריץ... |
 | A Soft Svartalfheim Steel | פלדת סבארטאלפהיים רכה אחת |
 | A Solid Svartalfheim Steel | פלדת סבארטאלפהיים מוצקה אחת |
 | A Son’s Regret | חרטת בן |
+| A Soul Eater… | אוכל נשמות... |
+| A suspicious amount of legends, | כמות חשודה של אגדות, |
 | A Thief’s Testimony | עדות של גנב |
+| A Traveler… | נוסע... |
+| A Valkyrie in the flesh… | ולקיריה בשר ודם... |
+| A Valkyrie… | ולקיריה... |
+| a very giant Giant— | ענק ענקי במיוחד - |
+| A very long time… | זמן רב מאוד… |
+| A wild storm… | סערה פראית... |
 | A World Serpent Scale | קשקש נחש העולם אחד |
+| A Wulver… | וולבר... |
+| Aaa! Bright… | אאא! בוהק… |
+| Aaa! My eyes… | אאא! העיניים שלי… |
+| Aaaaaaah-woooooo-(coughs) | אאאאאאה-ווווווו-(משתעל) |
+| Aaaaahahahah, you are a MESS… | אהההההההה, אתה הרוס לגמרי… |
+| Aaaaahahahah, you’re a MESS… | אהההההההה, אתה הרוס… |
+| Aaaaanytime now… | בכלללל רגע עכשיו... |
+| Aaaah… | אההה... |
+| Aaand the voices are back— | ווהקולות חזרו - |
+| Aah! Aah… | אה! אה… |
+| Aah… | אהה... |
+| Aawww… | אוףףף… |
 | Abandon Ship | נטשו את הספינה |
 | Abilities | יכולות |
 | About Game Data | אודות נתוני המשחק |
+| Above the entrance… | מעל הכניסה… |
 | Accept | אשר |
 | Accessibility | נגישות |
+| accuracy over speed… | דיוק לפני מהירות... |
 | Acquired | הושג |
 | Acquisition | השגה |
 | Acrobatics | אקרובטיקה |
@@ -400,6 +526,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Activate Talisman Abilities | הפעלת יכולות קמע |
 | Active | פעיל |
 | Active Markers | סימונים פעילים |
+| Actually, there’s something I need… | בעצם, יש משהו שאני צריך... |
 | Adam Harrington | אדם הרינגטון |
 | Add to Compass | הוסף למצפן |
 | Additional Bonus | בונוס נוסף |
@@ -420,16 +547,34 @@ Regenerate this page with `node tools/glossary-md.js`.
 | AERIAL DOMINANCE | שליטה אווירית |
 | Aesir | אסים |
 | Aesirbane | קוטל האסים |
+| After we scatter Mother’s ashes… | אחרי שנפזר את האפר של אמא... |
+| after what we did— | אחרי מה שעשינו, |
+| After… you know… | אחרי... אתה יודע... |
+| Again, | שוב, |
 | Against the Wall | אל הקיר |
 | Agile Strike | מכה זריזה |
+| Ah yes, well… | אה כן, ובכן... |
+| Ah yes… | אה כן... |
+| Ah— | אה - |
+| Ah, | אה, |
+| Ah, ha ha… is that | אה, הא הא… זה |
+| Ah, something special then… | אה, משהו מיוחד, אם כך... |
+| Ah. Well… | אה. טוב... |
+| Ah… | אה... |
+| Ahh— | אהה— |
+| Ahh, | אהה, |
+| Ahh… Oh, dear. Eh… | אהה... אוי, ואבוי. אה... |
+| Ahhh… | אההה... |
 | Aim | כיוון |
 | Aim Assist | סיוע בכיוון |
 | Aim Camera | מצלמת כיוון |
+| Aim carefully now… | תכוון בזהירות... |
 | Aim Friction Strength | עוצמת חיכוך בכיוון |
 | Aim Horizontal Sensitivity | רגישות כיוון אופקית |
 | Aim Toggle | כיוון במתג |
 | Aim Vertical Sensitivity | רגישות כיוון אנכית |
 | Aimed | מכוון |
+| Alas, no— | אבוי, לא - |
 | Alastair Duncan | אלסטייר דנקן |
 | Alchemist’s Ring | הטבעת של האלכימאי |
 | Alfheim | אלפהיים |
@@ -439,35 +584,102 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Alfheim Tower | מגדל אלפהיים |
 | Alfheim Travel Rune | רונת מסע לאלפהיים |
 | All | הכול |
+| all consumed.” | והכול נבלע." |
+| all mouth, | הרבה פה, |
+| All right… | טוב... |
+| All these dead… | כל המתים האלה... |
 | All Will Fall | כולם ייפלו |
-| Allfather Blinded | אבי הכל עוור |
+| Allfather Blinded | אבי הכול עוור |
 | Allow Data Collection | אפשר איסוף נתונים |
+| Almost got it… | כמעט הצלחתי… |
+| Almost there… | כמעט שם... |
+| Almost… | כמעט… |
+| Along with that whetstone… | יחד עם אבן ההשחזה ההיא... |
+| Alright, let’s make this quick… | טוב, בואו נגמור עם זה מהר… |
+| alright… | בסדר... |
+| Although… | אם כי... |
+| always happy just to chat… | תמיד שמח סתם לפטפט... |
 | Always On | תמיד פעיל |
 | Ambient Camera Sway | נדנוד מצלמה סביבתי |
 | Ambient Occlusion | הסתרה סביבתית |
 | AMD FidelityFX Super Resolution 2.0 | AMD פידליטי-FX סופר רזולוציה 2.0 |
-| Amulet of Kvasir | התליון של קוואסיר |
+| Amulet of Kvasir | הקמיע של קוואסיר |
 | Amulet of Kvasir + | תליון קווסיר + |
-| Amulet of Kvinneby | תליון קוויננבי |
+| Amulet of Kvinneby | קמיע קוויננבי |
+| An army… | צבא... |
+| An old man and this | זקן ו |
 | An Ominous Warning | אזהרה מבשרת רעות |
+| an opinion, in retrospect, | דעה שבדיעבד, |
 | An Unbreakable Chain | שרשרת בלתי שבירה |
+| An unworthy challenger… | יריב לא ראוי... |
 | Anchor of Fog | עוגן האובך |
 | Ancient | קדמון |
 | Ancient Frost Heart | לב כפור עתיק |
 | Ancient Light Heart | לב אור עתיק |
 | Ancient Seiðr Heart | לב סיידר עתיק |
-| Ancient’s Heart | לב העתיק |
+| Ancient’s Heart | לב הקדמון |
 | Ancient’s Rubble | ההריסות של העתיק |
 | Ancients Killed: %d of %d | קדמונים שנהרגו: %d מתוך %d |
+| And | ו |
+| And again, | ושוב, |
+| and another wrote | ויד אחרת כתבה |
+| And anyway… | וחוץ מזה... |
+| and Filled with Peace” | ויתמלא בשלום" |
+| and for that insult, | ועל העלבון הזה, |
+| And from that destruction, | ומתוך ההרס הזה, |
+| And hard… | וקשה… |
+| And his father is Thor… | ואבא שלו הוא ת'ור... |
+| and I’ll talk to Odin— | ואני אדבר עם אודין... |
+| And if he succeeded, | ואם יצליח, |
+| And it has, | ואכן השתנה, |
+| And it includes your boy, | וזה כולל גם את הילד שלך, |
+| And long shall they chase, | ועוד זמן רב ירדפו, |
+| and look— | ותראה— |
+| And look— | ותראה— |
+| And my Queen. She… | ואת המלכה שלי. היא... |
+| And now I suppose | ועכשיו, אני מניח, |
+| And now… | ועכשיו... |
+| And Odin is king… | ואודין הוא המלך… |
+| And oh, | ואוי, |
+| And on that dramatic note, | ועל הנימה הדרמטית הזאת, |
+| And reunite us… | ותאחד אותנו... |
+| And so— | ובכן - |
+| and starboard is right… | וסטארבורד זה ימין... |
+| And take this… | וקחו את זה… |
+| And the last panel— | והלוח האחרון- |
+| And them… | והאלה... |
+| And then he returned, | ואז הוא חזר, |
+| And then he— | ואז הוא— |
+| and then something about | ואז משהו על |
+| And then there was one… | ואז נשאר רק אחד... |
+| and this room alone— | ומהחדר הזה בלבד - |
+| And Thor came for us, | ות'ור בא אלינו, |
+| and when it’s done, | וכשהוא ייגמר, |
+| and when you were ready, | וכשתהיה מוכן, |
+| And you fought him… | ונלחמת בו... |
+| And you— | ואתה— |
+| And, well… | וגם... |
+| And… | ו... |
 | Andvaranaut | אנדוורנאוט |
 | Andvari | אנדוורי |
 | Andvari’s Hammer | הפטיש של אנדוורי |
 | Andvari’s Invention | ההמצאה של אנדוורי |
 | Andvari’s Soul | הנשמה של אנדוורי |
 | Andvari’s Soul + | נשמת אנדוורי + |
+| Anger can be a weapon | כעס יכול להיות נשק |
 | Anger Relic | שריד כעס |
 | Anisotropic Filter | סינון אניזוטרופי |
 | Another Betrayal | בגידה נוספת |
+| Another Dwarf, | עוד גמד, |
+| Another marker… | עוד סמן… |
+| Another name… | עוד שם... |
+| Another one of those spirits… | עוד אחת מהרוחות האלה… |
+| Another prophecy… | עוד נבואה... |
+| Another spirit… | עוד רוח… |
+| Another Valkyrie… | עוד ולקיריה... |
+| Anything you need, young sir… | כל מה שתצטרך, אדון צעיר... |
+| Anytime you’re ready… | מתי שתהיה מוכן... |
+| anyway… | בכל אופן... |
 | Apollo’s Enduring Gift | המתנה המתמשכת של אפולו |
 | Arabic | ערבית |
 | Arcane Bracers | מגיני אמה מסתוריים |
@@ -476,6 +688,9 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Arcane Runic | רוני מסתורי |
 | Arcane Shoulder Wraps | עטיפות כתף מסתוריות |
 | Arcane Waist Guard | מגן מותניים מסתורי |
+| are we… | נכון… |
+| Are you… | אתה... |
+| Are… | האם... |
 | Area | אזור |
 | Area: Discovered | אזור: התגלה |
 | Arena 01 | זירה 01 |
@@ -496,6 +711,8 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Artifact Set Complete | סט החפצים העתיקים הושלם |
 | Artifacts | חפצים עתיקים |
 | Artifacts Found | חפצים עתיקים שנמצאו |
+| As I said, brother… | כמו שאמרתי, אח... |
+| As usual— | כרגיל— |
 | Ascend the Cave Shaft | טפס בפיר המערה |
 | Ascend the mountain | עלה על ההר |
 | Asgard | אסגארד |
@@ -511,7 +728,11 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Ask Freya for help | בקש עזרה מפרייה |
 | Aspect Ratio | יחס גובה-רוחב |
 | Aspis of Spartan Fury | אספיס החמה הספרטנית |
+| Asshole… | אידיוט... |
+| At first we were thrilled, | בהתחלה התרגשנו, |
+| At this point… | בשלב הזה... |
 | Athena | אתנה |
+| Athena… | אתנה... |
 | Atmospherics | אפקטי אטמוספרה |
 | Atreus | אטריוס |
 | Atreus Advanced Combat | קרב מתקדם של אטריוס |
@@ -521,10 +742,14 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Atreus Power I | העוצמה של אטריוס I |
 | Atreus Power II | העוצמה של אטריוס II |
 | Atreus Power III | העוצמה של אטריוס III |
+| Atreus— | אטריוס - |
+| Atreus, I… | אטריוס, אני... |
+| Atreus… | אטריוס... |
 | Atreus's Face | הפנים של אטריוס |
 | Audio | שמע |
 | Audio Mode | מצב שמע |
 | AUDIO SETTINGS | הגדרות שמע |
+| Auðr… | אאוד'ר... |
 | Aura of Darkness | הילת חשכה |
 | Aura of Fire | הילת אש |
 | Aura of Weakness | הילת חולשה |
@@ -534,9 +759,13 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Auto Sprint | ריצה מהירה אוטומטית |
 | Auto Sprint Delay | השהיית ריצה מהירה אוטומטית |
 | Autosave | שמירה אוטומטית |
+| Autumn first, | הסתיו ראשון, |
 | Autumn, Summer, Spring, Winter | סתיו, קיץ, אביב, חורף |
 | Average Blessing | ברכה ממוצעת |
 | Avoid taking damage | הימנע מספיגת נזק |
+| Aw, | אוי, |
+| Aw… | אוף… |
+| Aww… | אוףף… |
 | Axe Aim and Recall | כיוון והחזרת גרזן |
 | Axe Heavy Runic Attacks | התקפות רוניות כבדות של הגרזן |
 | Axe Light Runic Attacks | התקפות רוניות קלות של הגרזן |
@@ -549,11 +778,23 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Axe Upgrade IV | שדרוג גרזן IV |
 | Axe Upgrade V | שדרוג גרזן V |
 | Axe Upgrade VI | שדרוג גרזן VI |
+| Aye, | כן, |
+| Aye, but | כן, אבל |
+| Aye, calm and collected… | כן, רגועה ומיושבת... |
+| Aye, Frigg… | כן, פריג… |
+| Aye, same here… | כן, גם אני... |
+| Aye, the stubborn old cyclops… | כן, הקיקלופ הזקן והעקשן... |
+| Aye… | כן... |
+| Aye… she’d married Odin… | כן... היא התחתנה עם אודין... |
 | Back | חזרה |
+| back… | חזרו... |
 | Bad Options | אפשרויות גרועות |
 | Balanced | מאוזן |
 | Baldur | באלדר |
 | Baldur and Odin | באלדר ואודין |
+| Baldur punched… | באלדר חבט... |
+| Baldur… | באלדר… |
+| Bane of Mankind” | מכת האנושות" |
 | Bare-Handed | ידיים חשופות |
 | Bare-Handed Damage Increase | הגברת נזק בידיים חשופות |
 | BARRAGE | מטח |
@@ -565,13 +806,18 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Beam Shield | מגן הקרן |
 | Bear McCreary | בר מקריירי |
 | Beast | חיה |
+| beasties on everything around us… | יצורונים זעירים על כל מה שסביבנו... |
+| Because he blames me for— | כי הוא מאשים אותי ב— |
+| Before anything else happens— | לפני שקורה עוד משהו - |
+| Before… | קודם... |
 | Behind the Lock | מאחורי המנעול |
+| being out here… | להיות פה בחוץ... |
 | Belly of the Beast | בטן החיה |
 | Belt of the Ancients | חגורת הקדמונים |
 | Belt of the Ancients + | חגורת הקדמונים + |
 | Beneath the Surface | מתחת לפני השטח |
 | Bergelmir | ברגלמיר |
-| Berserker | קרב תגרה |
+| Berserker | ברסרקר |
 | Berserker Pelt Fragment | שבר פרוות ברסרקר |
 | Berserker’s Cooldown | זמן הטעינה של הברסרקר |
 | Berserker’s Defense | ההגנה של הברסרקר |
@@ -582,11 +828,15 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Bestiary Updated | מאגר היצורים עודכן |
 | Bestla’s Frozen Shard | הרסיס הקפוא של בסטלה |
 | Bestla’s Frozen Shard + | הרסיס הקפוא של בסטלה + |
-| Between The Realms | בין העולמות |
+| Between The Realms | בין הממלכות |
 | Beware of Seiðr | היזהר מסיידר |
 | Bifröst | ביפרוסט |
 | Big Splash | נתז גדול |
+| birth, growth, death, and rebirth… | לידה, צמיחה, מוות ולידה מחדש... |
+| Bissam, bissam baad’ne, | ביסאם, ביסאם באדנה, |
+| bit of a long shot, | סיכוי קלוש, |
 | Bitter Squirrel | סנאי ממורמר |
+| Bjorn… | ביורן… |
 | Black and White | שחור-לבן |
 | Blades Heavy Runic Attacks | התקפות רוניות כבדות של הלהבים |
 | Blades Light Runic Attacks | התקפות רוניות קלות של הלהבים |
@@ -606,6 +856,8 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Blazing Magma War Belt + | חגורת מלחמה של מאגמה בוערת + |
 | Blazing Magma Wrappings | עטיפות מאגמה בוערת |
 | Blazing Magma Wrappings + | עטיפות מאגמה בוערת + |
+| Blech, | איכס, |
+| Blech… | בלאך… |
 | Blessing | ברכה |
 | Blessing of Cooldown | ברכת זמן הטעינה |
 | Blessing of Frost | ברכת הכפור |
@@ -633,19 +885,33 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Boat Dock | רציף הסירות |
 | Boat into the Serpent’s mouth | שוט בסירה אל תוך פי הנחש |
 | Boat towards daylight | שוט בסירה לעבר אור היום |
+| Bollocks… | לעזאזל... |
 | Boon of Immunity | חסד החסינות |
+| Booooy… | יללללד... |
+| Bop bop bop… | בופ בופ בופ… |
 | Border | מסגרת |
 | Borderless | ללא מסגרת |
 | Borr’s Frozen Shard | הרסיס הקפוא של בור |
 | Borr’s Frozen Shard + | הרסיס הקפוא של בור + |
 | Boss Health Bars | מדי בריאות של בוסים |
+| Both of them, | שניהם, |
+| Both sides suffered tremendous losses… | שני הצדדים ספגו אבדות עצומות... |
+| Bothvar… | בות'וואר… |
 | Bottom Center | למטה במרכז |
 | Bottom Left | למטה משמאל |
 | Bottom Right | למטה מימין |
 | Bottoms Up | לחיים |
+| Boy -- | ילד -- |
+| Boy— | ילד— |
+| Boy, | ילד, |
+| Boy. Beneath the floor. Now… | ילד. מתחת לרצפה. עכשיו... |
+| Boy… | ילד... |
+| Boy… I… | ילד... אני... |
+| Boys… | חבר'ה... |
 | Bracer | מגן אמה |
 | Bracers of the World Serpent | מגיני האמה של נחש העולם |
 | Branch of Yggdrasil | ענף איגדרסיל |
+| Brave, generous Surtr, | סורט האמיץ והנדיב, |
 | Brawler | המתגושש |
 | Braziers Lit: %d of %d | מחתות שהודלקו: %d מתוך %d |
 | Break down Aesirbane | פרק אסון האסים |
@@ -658,6 +924,7 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Breastplate of the Traveler | שריון החזה של הנוסע |
 | Breastplate of the Traveler + | שריון החזה של הנוסע + |
 | Breath of Thamur | הנשימה של תאמור |
+| Breathe, boy… | נשום, ילד... |
 | Brenna Dauði | ברנה דאודי |
 | Bridge Keeper’s Heart | הלב של שומר הגשר |
 | Bridge Of The Damned | גשר הארורים |
@@ -666,12 +933,15 @@ Regenerate this page with `node tools/glossary-md.js`.
 | Brilliant Mark of the Dragon | תו הדרקון המבריק |
 | Brilliant Scale of the Chained | הקשקש המבריק של הכבול |
 | Brok | ברוק |
+| Brok… | ברוק... |
+| Brok’s medallion… | המדליון של ברוק... |
 | Brok’s Royal Dwarven Breastplate | שריון החזה הגמדי המלכותי של ברוק |
 | Brok’s Royal Dwarven Breastplate + | שריון החזה הגמדי המלכותי של ברוק + |
 | Brok’s Royal Dwarven Gauntlets | כפפות השריון הגמדיות המלכותיות של ברוק |
 | Brok’s Royal Dwarven Gauntlets + | כפפות השריון הגמדיות המלכותיות של ברוק + |
 | Brok’s Royal Dwarven Waist Guard | מגן המותניים הגמדי המלכותי של ברוק |
 | Brok’s Shop | החנות של ברוק |
+| Broken… | שבור... |
 | Bronze: %02d:%02d
 Remaining: %d
 %02d:%02d | ארד: %02d:%02d
@@ -709,6 +979,12 @@ Enemies Killed: %d | ארד: %d
 | Brooches Collected: %d of %d | סיכות שנאספו: %d מתוך %d |
 | Brooches Found: %d of %d | סיכות שנמצאו: %d מתוך %d |
 | Brood | צאצאים |
+| Brother—the chisel… | אח - האזמל... |
+| Brother! Look ou— | אח! תיזהר... |
+| Brother… | אח... |
+| Brothers, | אחים, |
+| Brothers, be warned— | אחים, היזהרו, |
+| Brrrrrr… | ברררררר… |
 | Buckler of the Forge | מגינת הנפחייה |
 | Bulgarian | בולגרית |
 | Búri’s Frozen Shard | הרסיס הקפוא של בורי |
@@ -717,8 +993,49 @@ Enemies Killed: %d | ארד: %d
 | Burn | צריבת אש |
 | Burning Stone Tablet | לוח אבן בוער |
 | Burnished Belt of Exile | חגורה מבהיקה של גלות |
+| but | אבל |
+| but after that fall, I’ | אבל אחרי הנפילה ההיא, אני |
+| But can’t we just— | אבל אנחנו לא יכולים פשוט— |
+| But don’t you – | אבל אתה לא – |
+| But don’t you wanna– | אבל אתה לא רוצה– |
+| but good luck getting in; | אבל בהצלחה להיכנס; |
+| But her son, the thief, | אבל בנה, הגנב, |
+| but his judgement was swift | אבל משפטו היה מהיר |
+| But how did you— | אבל איך אתה— |
+| But I know this— | אבל את זה אני יודע— |
+| But I want to go— | אבל אני רוצה ללכת— |
+| But I was over-eager… | אבל הייתי נלהב מדי… |
+| But I— | אבל אני - |
+| But I’ll get us out | אבל אני אוציא אותנו |
+| But if I kill you— | אבל אם אהרוג אותך - |
+| But it doesn’t make sense… | אבל זה לא הגיוני… |
+| But it’s | אבל זה |
+| But it’s only one-way— | אבל זה רק בכיוון אחד— |
+| But look, | אבל תראה, |
+| But maybe— | אבל אולי— |
+| But no, | אבל לא, |
+| But no… | אבל לא... |
+| but not endlessly— | אבל לא לנצח - |
+| But people… | אבל אנשים... |
+| But she spurned his affections… | אבל היא דחתה את חיזוריו... |
+| But that’s just… | אבל זה פשוט... |
+| But they’re so weird… | אבל הם כל כך מוזרים... |
+| but to heal… | אבל כדי לרפא... |
+| But we cannot stay here… | אבל איננו יכולים להישאר כאן... |
+| but you… | אבל אתה... |
+| But you’re right… | אבל אתה צודק... |
+| But— | אבל - |
+| But, | אבל, |
+| But, I know, I know… | אבל, אני יודע, אני יודע... |
+| but… | אבל... |
+| But… | אבל... |
+| But… The Valkyrie… | אבל... הוולקיריה... |
 | Buy | קנייה |
 | Buyback | קנייה חוזרת |
+| C’mon, | קדימה, |
+| C’mon, I was just— | נו, רק רציתי... |
+| C’mon… | נו… |
+| caged trolls… | טרולים בכלובים... |
 | Camera | מצלמה |
 | Camera Roll | גלגול מצלמה |
 | Camera Settings | הגדרות מצלמה |
@@ -727,7 +1044,12 @@ Enemies Killed: %d | ארד: %d
 | Camera Speed | מהירות מצלמה |
 | Cannot Equip | לא ניתן לצייד |
 | Cannot travel to this yet | עדיין אי אפשר לנסוע לכאן |
+| Careful now… | זהירות עכשיו... |
+| Careful with those. They sting, | זהירות עם אלה. הם עוקצים, |
+| Cart’s still attached to the— | העגלה עדיין מחוברת ל... |
 | Catch Baldur | תפוס את באלדר |
+| Chained dragons, | דרקונים כבולים, |
+| Chained… | כבול... |
 | Challenge Complete (Bronze)
 %02d:%02d | האתגר הושלם (ארד)
 %02d:%02d |
@@ -778,6 +1100,7 @@ Enemies Killed: %d | ארד: %d
 | Cleansing Burst | פרץ מטהר |
 | Cleansing Fog | ערפל מטהר |
 | Cleansing Light | אור מטהר |
+| clear this up for me… | תבהיר לי משהו... |
 | Cleaving Focus | מיקוד מבקע |
 | Cleaving Rage | זעם מבקע |
 | Cleaving Restoration | שיקום מבקע |
@@ -785,10 +1108,13 @@ Enemies Killed: %d | ארד: %d
 | Click [R3] | לחץ [R3] |
 | Cliffs of the Raven | צוקי העורב |
 | Climb the volcano | טפס על הר הגעש |
+| climbed around a dead giant, | טיפסנו על ענק מת, |
 | Close | סגור |
 | Close 20 Realm Tears | סגור 20 קרעי עולמות |
 | Close Combat | קרב קרוב |
 | Close Realm Tears | סגור קרעי עולמות |
+| Close, | קרוב, |
+| close… | קרוב… |
 | Cod of War Fin-Wraps | עטיפות הסנפיר של דג המלחמה |
 | Cod of War Tunic | טוניקת דג המלחמה |
 | Cod of War Underbelly-Guard | מגן הבטן של דג המלחמה |
@@ -809,6 +1135,11 @@ Enemies Killed: %d | ארד: %d
 | Combat Camera | מצלמת קרב |
 | Combat HUD | ממשק קרב |
 | Come Back Later | חזור מאוחר יותר |
+| Come boy, | בוא, ילד, |
+| Come on, | נו באמת, |
+| Come on, already, | קדימה, כבר, |
+| Come ON, you two… | נו באמת, שניכם... |
+| Come on… | קדימה... |
 | Commander | המפקד |
 | Common | נפוץ |
 | Common Blessing | ברכה נפוצה |
@@ -830,6 +1161,7 @@ Enemies Killed: %d | ארד: %d
 | Concentration 2 | ריכוז 2 |
 | Concentration 3 | ריכוז 3 |
 | Concept Art | אמנות קונספט |
+| Concerning Gróa, the Knowledge Keeper… | לגבי גרואה, שומרת הידע... |
 | Condensed Space | מרחב דחוס |
 | Confirm | אשר |
 | Continue | המשך |
@@ -855,10 +1187,12 @@ Enemies Killed: %d | ארד: %d
 | Cory Barlog | קורי בארלוג |
 | Cost | עלות |
 | Cost of the Hunt | מחיר הציד |
+| Could we… | אולי נוכל... |
 | Council of Valkyries | מועצת הוולקיריות |
 | Countering Blast | הדף נגדי |
 | Countering Crush | ריסוק נגדי |
 | Countering Strike | מכה נגדית |
+| covetous… | קטן... |
 | Craft | יצירה |
 | Craft an outfit for Atreus | צור תלבושת לאטריוס |
 | Craft Recipes | מתכוני יצירה |
@@ -879,15 +1213,19 @@ Enemies Killed: %d | ארד: %d
 | Croatian | קרואטית |
 | Cross | צולב |
 | Cry Haddock | זעקת הבקלה |
+| Crying… | בכי... |
+| Crystalized sap… | שרף מגובש... |
 | Cuirass of Ares | שריון הגוף של ארס |
 | Cuirass of the Valkyrie | שריון הגוף של הוולקיריה |
 | Cuirass of the Valkyrie + | שריון הגוף של הוולקיריה + |
 | Cuirass of Zeus | שריון הגוף של זאוס |
 | Cups Found: %d of %d | גביעים שנמצאו: %d מתוך %d |
 | Curator | אוצר |
+| Curious… | מעניין... |
 | Current | נוכחי |
 | Currently downloading save data | מוריד כעת נתוני שמירה |
 | Curse of the Mist | קללת הערפל |
+| Curse you, | ארור תהיה, |
 | Cursed Poison Handle | ידית רעל מקוללת |
 | Cursed Tatzelwurm | טאצלוורם מקולל |
 | Curved Grip of Fury | אחיזה מעוקלת של חמה |
@@ -974,6 +1312,7 @@ Enemies Killed: %d | ארד: %d
 | Destroy shrines binding Otr | השמד את המזבחות הכובלים את אוטר |
 | Destroy shrines binding Reginn | השמד את המזבחות הכובלים את רגין |
 | Destroy the statue of Thor | השמד את הפסל של ת'ור |
+| Destroyed… | הרוס... |
 | Destroyer’s Health Burst | פרץ הבריאות של המחריב |
 | Detonate Power | עוצמת פיצוץ |
 | Detonation | התפוצצות |
@@ -983,6 +1322,8 @@ Enemies Killed: %d | ארד: %d
 | Dexterous Shot II | ירייה זריזה II |
 | Dexterous Shot III | ירייה זריזה III |
 | Dialogue Volume | עוצמת קול דיאלוג |
+| Did you ever— | האם אי פעם— |
+| Did you know they were— | ידעת שהם היו— |
 | Difficulty | רמת קושי |
 | Difficulty Changed | רמת הקושי שונתה |
 | Dimension | ממד |
@@ -999,11 +1340,22 @@ Enemies Killed: %d | ארד: %d
 | DLSS Sharpness | חדות DLSS |
 | Dock at the bridge | עגון ליד הגשר |
 | Dodge Roll | גלגול התחמקות |
+| Doesn’t seem heavy… | לא נראה כבד… |
 | Dökkenshieldr | דקנשילדר |
+| don’t be mad… | אל תכעס… |
 | Don’t Blink | אל תמצמץ |
+| Don’t do this, Kratos… | אל תעשה את זה, קרייטוס... |
+| Don’t judge me— | אל תשפוט אותי - |
 | Don’t let enemies capture Atreus | אל תתן לאויבים ללכוד את אטריוס |
+| Don’t mind me… | אל תשימו לב אליי... |
+| Don’t worry; | אל תדאג; |
+| Don’t you forget… | אל תשכח... |
+| don’t you… | נכון... |
+| Door… | דלת... |
+| doth know my call.” | יכירו את קריאתי." |
 | Double Whirlwind | מערבולת כפולה |
 | Down | למטה |
+| Down by the water, | למטה ליד המים, |
 | Down With Odin | הלאה אודין |
 | Download | הורד |
 | Download Complete | ההורדה הושלמה |
@@ -1026,7 +1378,9 @@ Enemies Killed: %d | ארד: %d
 | Draugr (Shield) | דראוגר (מגן) |
 | Draugr (Speed) | דראוגר (מהירות) |
 | Draugr Killed: %d of %d | דראוגר שנהרגו: %d מתוך %d |
+| Draugr… | דראוגר... |
 | Draugr’s Demise | מפלתם של הדראוגרים |
+| Dreams are nothing to f— | חלומות הם לא דבר שצריך לפ— |
 | Drills repaired %d of %d | מקדחים שתוקנו %d מתוך %d |
 | Driver Update Required | נדרש עדכון מנהל התקן |
 | Drummer Loot | שלל מתופפים |
@@ -1050,11 +1404,18 @@ Enemies Killed: %d | ארד: %d
 | Dwarven Shop | חנות גמדית |
 | Dwarven Shop Tutorial | הדרכת החנות הגמדית |
 | Dwarves | גמדים |
+| Dwarves are resourceful creatures. Annoying, | גמדים הם יצורים בעלי תושייה. מעצבנים, |
+| Dwarvish inscription… | כתובת גמדית… |
 | East Mining Rig | אסדת הכרייה המזרחית |
 | Easy | קל |
+| Easy… | בעדינות... |
+| Eh… | אה... |
+| Ehhhhhh-kooooo… noooooh oh-thooooo voo-nooooor… | אההההה-קוווו... נווווה או-תוווו וו-נוווור... |
+| eigin vegum hans…” | אייגין וגום האנס..." |
 | Eir | איר |
-| Eir’s Helmet | הקסדה של אייר |
+| Eir’s Helmet | הקסדה של איר |
 | Eitr Imbued | חדור אייטר |
+| Eldi-fagnað… | אלדי-פאגנאד... |
 | Elemental Charge | הסתערות יסודית |
 | Elemental Combat | קרב יסודי |
 | Elemental Explosion | פיצוץ יסודי |
@@ -1062,6 +1423,7 @@ Enemies Killed: %d | ארד: %d
 | Elemental Shielding | מיגון יסודי |
 | Elemental Slash | חתך יסודי |
 | Elemental Surge | נחשול יסודי |
+| Elgr hríð | אלגר הריד |
 | Elven Artifact | חפץ עתיק אלפי |
 | Elven Artifacts | חפצים עתיקים אלפיים |
 | Elven Cloth | בד אלפי |
@@ -1088,6 +1450,7 @@ Enemies Killed: %d | ארד: %d
 | Enchantment Socket | חריץ כישוף |
 | Enchantment Sockets | חריצי כישוף |
 | Enchantments | כישופים |
+| End this… | שים לזה סוף... |
 | Enduring Frost Blessings | ברכות כפור מתמשכות |
 | Enduring Wrath of the Frost | חרון הכפור המתמשך |
 | Enemies Killed: %d of %d | אויבים שנהרגו: %d מתוך %d |
@@ -1104,6 +1467,9 @@ Enemies Killed: %d | ארד: %d
 | Engulfing Spear | חנית בולעת |
 | ENHANCED STRIKES | מכות משופרות |
 | Enkindled Ember | גחלת מוצתת |
+| Enough was enough— | די זה די - |
+| Enough wit, | די עם השנינות, |
+| Enough, | מספיק, |
 | Enter Motsògnir’s Stronghold | היכנס למבצר של מוטסוגניר |
 | Enter Photo Mode | היכנס למצב צילום |
 | Enter the boat | היכנס לסירה |
@@ -1118,6 +1484,11 @@ Enemies Killed: %d | ארד: %d
 | Equip | צייד |
 | Equip Axe | צייד גרזן |
 | Equipped | מצויד |
+| Er… | אה... |
+| Eric… | אריק… |
+| Erm, well… | אממ, ובכן… |
+| Errghh… | אררגג... |
+| escalated – and well, | הסלימו, ובכן, |
 | Escape from Helheim | בריחה מהלהיים |
 | Escape Helheim | ברח מהלהיים |
 | Escape the ruins | ברח מההריסות |
@@ -1214,6 +1585,7 @@ Enemies Killed: %d | ארד: %d
 | Etched Sigil of Truth | חותם חרוט של אמת |
 | Eternal Frost | כפור נצחי |
 | Eternal Obsidian | אובסידיאן נצחי |
+| Eternal wisdom… Eternal suffering… | חוכמה נצחית... סבל נצחי... |
 | Evade | התחמקות |
 | Evasive Cooldown | זמן טעינה חמקני |
 | Evasive Defense | הגנה חמקנית |
@@ -1221,6 +1593,16 @@ Enemies Killed: %d | ארד: %d
 | Evasive Runic | רוני חמקני |
 | Evasive Storm | סערה חמקנית |
 | Evasive Strength | כוח חמקני |
+| Every waking | כל שעה |
+| Every. Single. Day. This… | כל. יום. ויום. זה... |
+| Everything else, you fight… | בכל השאר, אתה נלחם... |
+| Everything we just did… | כל מה שעשינו עכשיו... |
+| Evni ykkarr biðjast… | אבני איקאר ביית'יאסט... |
+| Ew, | איכס, |
+| Eww… | איכס… |
+| Excellent… | מצוין... |
+| Except for one thing… | חוץ מדבר אחד… |
+| Except… | רק ש… |
 | Exchange Berserker’s Resurrection Stone | החלף את אבן התחייה של הברסרקר |
 | Exchange Simple Resurrection Stone | החלף אבן תחייה פשוטה |
 | Exchange Superior Resurrection Stone | החלף אבן תחייה משובחת |
@@ -1240,7 +1622,7 @@ Enemies Killed: %d | ארד: %d
 | Exploding Nightmare | סיוט מתפוצץ |
 | Explore deeper into the stronghold | חקור לעומק המבצר |
 | Explore the Bay | חקור את המפרץ |
-| Explore the Realm Between Realms | חקור את העולם שבין העולמות |
+| Explore the Realm Between Realms | חקור את הממלכה שבין הממלכות |
 | Explore the realms | חקור את הממלכות |
 | Explore the Stronghold | חקור את המבצר |
 | Explore the vault | חקור את הכספת |
@@ -1264,12 +1646,15 @@ Enemies Killed: %d | ארד: %d
 | Eye of Rage | עין הזעם |
 | Eye of Runic Mastery | עין השליטה הרונית |
 | Eye of Runic Supremacy | עין העליונות הרונית |
-| Eye of the Outer Realm | עין העולם החיצון |
+| Eye of the Outer Realm | עין הממלכה החיצונית |
 | Eye of the Winged Chosen | עין הנבחר המכונף |
 | Eye of Vitality | עין החיוניות |
 | F-Stop | צמצם |
 | Face | פנים |
+| Face looks like chopped mutton… | הפרצוף נראה כמו בשר כבש קצוץ... |
+| Face me… | עמוד מולי... |
 | Fáfnir | פפניר |
+| Fáfnir was a… | פפניר היה… |
 | Fáfnir’s Entry Stone | אבן הכניסה של פפניר |
 | Fáfnir’s Hoard | האוצר של פפניר |
 | Fáfnir’s Ravine | הנקיק של פפניר |
@@ -1283,6 +1668,13 @@ Enemies Killed: %d | ארד: %d
 | Fan Art | אמנות מעריצים |
 | Father and Son | אב ובן |
 | Father was right— | אבא צדק— |
+| Father— | אבא— |
+| Father, | אבא, |
+| Father, can | אבא, אפשר |
+| Father? Do you… | אבא? אתה... |
+| father… | אבא... |
+| Father… | אבא... |
+| Father… please… | אבא… בבקשה… |
 | Father’s Blades | הלהבים של אבא |
 | Favor | טובה |
 | Favor Complete | טובה הושלמה |
@@ -1290,9 +1682,14 @@ Enemies Killed: %d | ארד: %d
 | Favor Resolution | העדף רזולוציה |
 | Favors | טובות |
 | Favors Completed | טובות שהושלמו |
+| Faye… | פיי... |
 | Faye’s Wish | המשאלה של פיי |
 | Feathers of the Fallen Servant | נוצות המשרת שנפל |
+| Feeling shame and regret, | מלא בושה וחרטה, |
 | Feels Like Home | מרגיש כמו בבית |
+| Feels weird to run away… | מרגיש מוזר לברוח… |
+| Feels… | מרגיש... |
+| Fellas… | חבר'ה... |
 | Ferocity | אכזריות |
 | FidelityFX CAS | פידליטי-FX CAS |
 | FidelityFX Super Resolution | פידליטי-FX סופר רזולוציה |
@@ -1308,7 +1705,9 @@ Enemies Killed: %d | ארד: %d
 | Film Grain Amount | מידת גרעיניות |
 | Filter | מסנן |
 | Filter Intensity | עוצמת מסנן |
+| filthy… | מטונפת… |
 | Final Empowerment | העצמה סופית |
+| Finally… | סוף סוף... |
 | Find a different exit | מצא יציאה אחרת |
 | Find a route back home | מצא דרך חזרה הביתה |
 | Find a way to ascend | מצא דרך לעלות |
@@ -1317,6 +1716,7 @@ Enemies Killed: %d | ארד: %d
 | Find Jötunheim’s highest peak | מצא את הפסגה הגבוהה ביותר ביוטונהיים |
 | Find Mimir’s eye | מצא את העין של מימיר |
 | Find Njord and Skadi's hideaway | מצא את המחבוא של ניורד וסקאדי |
+| Find our own path, | למצוא את הדרך שלנו, |
 | Find the Deer | מצא את הצבי |
 | Find your Son | מצא את בנך |
 | Finder’s Fee | דמי מוצא |
@@ -1352,12 +1752,18 @@ Enemies Killed: %d | ארד: %d
 | Focal Length | אורך מוקד |
 | Focus Attack Shield | מגן התקפת המיקוד |
 | Focus Distance | מרחק מיקוד |
+| Focus on what is… | התמקד במה שיש... |
+| Focus… | התמקד... |
 | Follow Atreus' footprints | עקוב אחר טביעות הרגליים של אטריוס |
 | Follow the path | עקוב אחר השביל |
 | Follow the river downstream | לך במורד הנהר |
 | Follow the Witch | לך אחרי המכשפה |
+| Follow this path down, | לך בשביל הזה למטה, |
+| Foolish… | טיפשי... |
 | Foot of the Mountain | מרגלות ההר |
 | Foothills | גבעות המרגלות |
+| For the record, | רק שיהיה ברור, |
+| For this, mortals adored Týr— | בגלל זה בני התמותה העריצו את טיר— |
 | Forbidden Grip of the Ages | האחיזה האסורה של הדורות |
 | Forest Ancient | קדמון יער |
 | Forest Exit | יציאה מהיער |
@@ -1365,6 +1771,7 @@ Enemies Killed: %d | ארד: %d
 | Fortification | ביצור |
 | Fortune’s Strike | המכה של השפע |
 | FPS Limit | הגבלת קצב פריימים |
+| Fræ… | פראי... |
 | Fragmented Heart of Alfheim | הלב המנופץ של אלפהיים |
 | Free all of the Dragons | שחרר את כל הדרקונים |
 | Free Dragons | שחרר דרקונים |
@@ -1375,16 +1782,27 @@ Enemies Killed: %d | ארד: %d
 | Free the Dragon, Otr | שחרר את הדרקון אוטר |
 | Free the Dragon, Reginn | שחרר את הדרקון רגין |
 | Free the Ship | שחרר את הספינה |
+| Freedom… | חירות... |
 | Freezing Burst | פרץ מקפיא |
 | Freezing Throw | הטלה מקפיאה |
+| Frelsa | פרלסה |
 | French | צרפתית |
 | Freya | פרייה |
+| Freya for sure… | פרייה בטוח... |
+| Freya is his mother… | פרייה היא אמו... |
+| Freya said it was wicked… | פרייה אמרה שהוא מרושע... |
+| Freya… | פרייה... |
 | Freya’s Cave | המערה של פרייה |
 | Freya’s Curse | הקללה של פרייה |
 | Freya’s House | הבית של פרייה |
 | Freya’s Spirit | הרוח של פרייה |
+| Freyr’s Temple— | המקדש של פרייר, |
 | Friends | חברים |
 | Frigg and Freya | פריג ופרייה |
+| from every corner | מכל פינה |
+| From the island of Lemnos, | מהאי למנוס, |
+| From Ymir’s torn flesh, | מבשרו הקרוע של ימיר, |
+| Frømund… | פרומונד… |
 | Frost | כפור |
 | Frost Ancient | קדמון כפור |
 | Frost Attack Resistance | עמידות להתקפות כפור |
@@ -1399,6 +1817,7 @@ Enemies Killed: %d | ארד: %d
 | Frost Supremacy | עליונות כפור |
 | Frozen Élivágar Shard | רסיס אליוואגר קפוא |
 | Frozen Flame | להבה קפואה |
+| Frustrated, | מתוסכל, |
 | FSR Sharpening | חידוד FSR |
 | Fullscreen | מסך מלא |
 | Fully explore Veithurgard | חקור את וייטורגארד במלואה |
@@ -1406,6 +1825,7 @@ Enemies Killed: %d | ארד: %d
 | Fully upgrade the Leviathan Axe | שדרג את גרזן הלוויתן במלואו |
 | Fully upgrade your Health | שדרג את הבריאות שלך במלואה |
 | Fully upgrade your rage | שדרג את הזעם שלך במלואו |
+| Funny, | מצחיק, |
 | Furious Immolation | הצתה עזה |
 | Further Travels | מסעות נוספים |
 | Fury Beatdown | מהלומות החמה |
@@ -1442,10 +1862,13 @@ Enemies Killed: %d | ארד: %d
 | Generate Rare Enchantment | יצירת כישוף נדיר |
 | Generate Test Rune | יצירת רונת ניסיון |
 | Generic Leather Legguards | מגיני רגליים פשוטים מעור |
+| Gently now, gently… | בעדינות עכשיו, בעדינות... |
+| Gents… | רבותיי... |
 | German | גרמנית |
 | Get in the boat | עלה לסירה |
 | Get to the boat | הגע לסירה |
 | Get to the Ringed Temple | הגע למקדש הטבעתי |
+| Getting closer… | מתקרבים… |
 | Giant’s Hair | שיער ענק |
 | Giants and Dwarves | ענקים וגמדים |
 | Gift of Apollo | מתנת אפולו |
@@ -1467,6 +1890,7 @@ Enemies Killed: %d | ארד: %d
 | Gloom Nightmare | סיוט קדרות |
 | Glowing Gem of the Nine | אבן החן הזוהרת של התשעה |
 | Go back through the tower | חזור דרך המגדל |
+| Go on now— | יאללה, לכו - |
 | Go to Brok | לך לברוק |
 | Go to Journal | עבור ליומן |
 | Go to Map | עבור למפה |
@@ -1476,10 +1900,14 @@ Enemies Killed: %d | ארד: %d
 | Go to the Konùnsgard stronghold | לך למבצר קונונסגארד |
 | Go to the Serpent’s horn | לך לקרן הנחש |
 | Go to Týr’s Vault | לך לכספת של טיר |
+| Go, | לך, |
+| Go… | לך... |
 | Goals | יעדים |
+| God of Thunder… | אל הרעם… |
 | God of War | גוד אוף וור |
 | God vs. Queen | אל נגד מלכה |
 | Gods at War | אלים במלחמה |
+| Going to Alfheim… | המסע לאלפהיים... |
 | Gold: %02d:%02d
 Remaining: %d
 %02d:%02d | זהב: %02d:%02d
@@ -1512,21 +1940,30 @@ Enemies Killed: %d | זהב: %d
 | Gold: Stun Grab 100 Enemies | זהב: בצע תפיסת סחרור ב-100 אויבים |
 | Gold: Trip 100 Enemies | זהב: הפל 100 אויבים |
 | Gold: Wall Pin 30 Enemies | זהב: הצמד 30 אויבים לקיר |
+| Golden boar, giant turtle… | חזיר בר מוזהב, צב ענק… |
 | Golden Protection | מחסה זהוב |
 | Golden Talisman of Protection | קמע זהב של מחסה |
 | Golden Talisman of Protection + | קמע המחסה הזהוב + |
 | Göndul | גונדול |
 | Göndul’s Helmet | הקסדה של גונדול |
 | Gone | נעלם |
+| Gonna break all your fingers… | אשבור לך את כל האצבעות... |
+| Good glory to Gullveig, son…This | תהילה לגולווייג, בן... זה |
+| Good idea… | רעיון טוב... |
+| Good sirs… | אדונים נכבדים... |
 | Grace of the Wanderer | חסד הנודד |
 | Graphics | גרפיקה |
 | Graphics Mode | מצב גרפיקה |
+| Great Auðumbla’s udders— | בעטיניה של אאודומבלה הגדולה— |
 | Great Challenge Awaits | אתגר גדול מחכה |
+| Great— | נהדר... |
 | Greater Crest of Flame | סמל הלהבה הגדול |
 | Greek | יוונית |
+| Green ring… | טבעת ירוקה… |
 | Grendel of the Ashes | גרנדל האפר |
 | Grendel of the Frost | גרנדל הכפור |
 | Grim Reality | מציאות עגומה |
+| Grimwald… | גרימוולד… |
 | Grinding Storm | סערה טוחנת |
 | Grip of Tanngiost | אחיזת טנגיוסט |
 | Grip of Tanngiost + | אחיזת טנגיוסט + |
@@ -1539,17 +1976,23 @@ Enemies Killed: %d | זהב: %d
 | Grips of the Valkyrie | אחיזות הוולקיריה |
 | Grips of the Valkyrie + | אחיזות הוולקיריה + |
 | Gróa | גרואה |
+| Gross… | מגעיל… |
+| Gryta hængø i jod’ne; | גריטה הנגה אי יודנה; |
 | Guardian Shield | מגן השומר |
 | Guardian Sweep | סחיפת השומר |
 | Guardian’s Fury | חמת השומר |
 | Guardian’s Judgement | משפט השומר |
 | Guardian’s Justice | צדק השומר |
 | Guardian’s Revenge | נקמת השומר |
+| Guess it’s just me… | כנראה שזה רק אני... |
+| Guess we’re going… | נראה שאנחנו הולכים... |
+| Guess you don’t | נראה שאתם לא |
 | Gullinbursti Bristle | זיף גולינבורסטי |
 | Gullinbursti Bristle II | זיף גולינבורסטי II |
 | Gullinbursti Bristle III | זיף גולינבורסטי III |
 | Gullinbursti Bristle IV | זיף גולינבורסטי IV |
 | Gullveig | גולווייג |
+| Gullveig… | גולווייג... |
 | Gullveig’s Left Hand | היד השמאלית של גולווייג |
 | Gullveig’s Pelvis | האגן של גולווייג |
 | Gullveig’s Right Hand | היד הימנית של גולווייג |
@@ -1560,22 +2003,56 @@ Enemies Killed: %d | זהב: %d
 | Gusserino's Amazing Chest Armor | שריון החזה המדהים של גוסרינו |
 | Gusserino's Amazing Waist Armor | שריון המותניים המדהים של גוסרינו |
 | Gusserino's Amazing Wrist Armor | שריון פרק היד המדהים של גוסרינו |
+| Ha hah, | הא הא, |
+| Ha… | חה… |
 | Hacksilver | כסף שבור |
+| Haha… | חחח… |
 | Hail to the King | יחי המלך |
+| Hallveig… | הלוויג… |
 | Hamingja Essence | תמצית האמינגיה |
 | Hammer Fall | נפילת הפטיש |
+| Hang on… | רגע… |
+| Happy to be of service… | שמח לעזור… |
 | Hard | קשה |
 | Hardened Leather Bracers | מגיני אמה מעור מוקשה |
 | Hardened Leather Breastplate | שריון חזה מעור מוקשה |
 | Hardened Leather Legguards | מגיני רגליים מעור מוקשה |
 | Hardened Svartalfheim Steel | פלדת סבארטאלפהיים מוקשה |
+| Haust, vár, | האוסט, ואר, |
+| Have a look… | תעיפו מבט... |
+| Have faith, | תאמין, |
 | Haymaker Crush | ריסוק במכת פטיש |
 | Haze Weave | אריג אובך |
 | HDR Shoulder | כתף HDR |
 | HDR Slope | שיפוע HDR |
+| He broke our bridge… | הוא שבר לנו את הגשר... |
+| He died at peace, | הוא מת בשלווה, |
+| He doesn’t know anything… | הוא לא יודע כלום... |
+| He inspired us to hope… | הוא נתן לנו השראה לקוות... |
+| He is beaten— | הוא מובס, |
+| He knew I’d outwitted him, | הוא ידע שהערמתי עליו, |
+| He makes a flaming sword… | הוא מכין חרב בוערת... |
+| He needs rest… | הוא צריך מנוחה… |
+| He says, | הוא אומר, |
+| He seemed nice, | הוא נראה נחמד, |
+| He sounds… | הוא נשמע... |
+| He surrendered, | הוא נכנע, |
+| he wasn’t like the others… | הוא לא היה כמו האחרים... |
+| He won’t hurt anyone… | הוא לא יפגע באף אחד… |
+| He— | הוא— |
+| He… | הוא… |
+| He’d have kept it… | הוא היה שומר אותה... |
+| He’s a backstabbing bastard, but… | הוא ממזר שדוקר בגב, אבל… |
+| He’s beaten, father… | הוא מובס, אבא... |
+| He’s chained up… | הוא כבול... |
+| He’s dead… | הוא מת... |
+| He’s got me, | הוא תפס אותי, |
+| He’s one of the Giants— | הוא אחד הענקים— |
 | Head of Thamur | ראש תאמור |
 | Head to Fáfnir’s storeroom | לך למחסן של פפניר |
 | Head to the Northri Stronghold | לך למבצר נורת'רי |
+| Head, | ראש, |
+| Head… | ראש... |
 | Headphone Mode (Stereo Only) | מצב אוזניות (סטריאו בלבד) |
 | Headphones | אוזניות |
 | Heal Atreus | רפא את אטריוס |
@@ -1602,6 +2079,9 @@ Enemies Killed: %d | זהב: %d
 | Heavy Attack | התקפה כבדה |
 | Heavy Draugr | דראוגר כבד |
 | Heavy Runic Attack | התקפה רונית כבדה |
+| Heavy… | כבד… |
+| Heh… | הה... |
+| Hehehehe… | חיחיחיחי... |
 | Heightened Fury | חמה מוגברת |
 | Heightened Regeneration | התחדשות מוגברת |
 | Heimdall’s Vision | החזון של היימדאל |
@@ -1616,6 +2096,7 @@ Enemies Killed: %d | זהב: %d
 | Hel-Traveler | נוסע הל |
 | Hel-Viken | ויקן הל |
 | Hel-Walker | מהלך הל |
+| Hel… | הל... |
 | Hel’s Bramble | הקוץ של הל |
 | Hel’s Library | הספרייה של הל |
 | Hel’s Runic | הכוח הרוני של הל |
@@ -1629,10 +2110,27 @@ Enemies Killed: %d | זהב: %d
 | Helheim Tower | מגדל הלהיים |
 | Helheim Travel Rune | רונת מסע להלהיים |
 | Helheim Zeus | זאוס בהלהיים |
+| Helheim, of all places… | הלהיים, מכל המקומות... |
 | Helheim’s Unfeeling Soul | הנשמה חסרת הרגש של הלהיים |
 | Hello, Old Friend | שלום, ידיד ותיק |
 | Helmets Placed: %d of %d | קסדות שהונחו: %d מתוך %d |
+| Help me end this… | עזור לי לשים לזה סוף... |
 | Help Sindri find Fáfnir’s whetstone | עזור לסינדרי למצוא את אבן המשחזת של פפניר |
+| her ear… | האוזן שלה... |
+| Her knife… | הסכין שלה... |
+| Here we go again… | הנה זה שוב... |
+| Here we go… | מתחילים... |
+| Here, | הנה, |
+| Here! … | הנה! … |
+| Here’s what I got… | הנה מה שיש לי... |
+| Hey Brok, | היי, ברוק, |
+| Hey Sindri, | היי סינדרי, |
+| Hey, | היי, |
+| Hey, look, | היי, תראה, |
+| Hey, nobody mentioned fortune— | היי, אף אחד לא הזכיר שפע - |
+| Hey, nobody’s twisting your arm… | היי, אף אחד לא מכריח אותך... |
+| Hey, that could be valuable… | היי, זה יכול להיות שווה משהו... |
+| Hey… | היי... |
 | Hidden Area: Discovered | אזור נסתר: התגלה |
 | Hidden Chamber | חדר נסתר |
 | Hidden Chamber of Odin | החדר הנסתר של אודין |
@@ -1649,6 +2147,16 @@ Enemies Killed: %d | זהב: %d
 | Hildr’s Helmet | הקסדה של הילדר |
 | Hilt of Swift Return | ניצב החזרה המהירה |
 | Hilt of Ultimate Destruction | ניצב ההרס המוחלט |
+| His last words… | המילים האחרונות שלו... |
+| His pond had dried up, | הבריכה שלו יבשה, |
+| His stories were brief, | הסיפורים שלו היו קצרים, |
+| His Stronghold still stands, | המבצר שלו עדיין עומד, |
+| Hjorvarth… | היורוורת'… |
+| Hm… | הממ... |
+| Hmm which way… | הממ, לאיזה כיוון… |
+| Hmm… | המממ... |
+| Hmm… a dead Soul Eater… | הממ... אוכל נשמות מת... |
+| Hmmm… | הממם… |
 | Hold | החזק |
 | Hold [BlockButton] + [HeavyAttackButton] | החזק [BlockButton] + [HeavyAttackButton] |
 | Hold [BlockButton] + [LightAttackButton] | החזק [BlockButton] + [LightAttackButton] |
@@ -1659,11 +2167,16 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 ואז לחץ [L3] |
 | Hold [SonActionButton] | החזק [SonActionButton] |
 | Hold [SquareButton] to break down | החזק [SquareButton] כדי לפרק |
+| Hold on… | רגע... |
 | Hold to show Journal | החזק כדי להציג את היומן |
 | Hold to show Map | החזק כדי להציג מפה |
 | Hold to Sprint | החזק לריצה מהירה |
 | Hold to Track Favor | החזק כדי לעקוב אחר טובה |
+| Hold… | רגע... |
 | Home | בית |
+| Hope he’s not broken… | מקווה שהוא לא מקולקל... |
+| Hope, | תקווה, |
+| Hopeless… | חסר תקווה... |
 | Horizontal Rotation Speed | מהירות סיבוב אופקית |
 | Horn of Blood Mead | קרן דם הדבש |
 | Horn of Heimdall | הקרן של היימדאל |
@@ -1672,20 +2185,30 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Horns of Veithurgard | הקרניים של וייטורגארד |
 | Hour Left | שעה נותרה |
 | Hours Left | שעות נותרו |
+| How are you | איך אתה |
+| How could you | איך הצלחת |
+| How touching… | כמה נוגע ללב... |
+| How was that for “fun?” | איך זה היה מבחינת "כיף"? |
+| However… | עם זאת… |
 | Hræzla Farmaðr’s Grip | האחיזה של הרייזלה פרמאדר |
 | Hræzla Farmaðr’s Grip + | האחיזה של הרזלה פרמאדר + |
 | Hræzlyr | הרייזליר |
+| Hrmmmm… | הממממ... |
 | Hroðr’s Frozen Shard | הרסיס הקפוא של הרות'ר |
 | Hroðr’s Frozen Shard + | הרסיס הקפוא של הרודר + |
 | Hrungnir | הרונגניר |
 | HUD Mode | מצב ממשק |
+| huh… | הא... |
+| Huh… | המממ... |
 | Huldra Shop | חנות הולדרה |
 | Hungarian | הונגרית |
+| Hunh… | הממ... |
 | Hunt with Atreus | צוד עם אטריוס |
 | Hunter-Killer I | צייד-רוצח I |
 | Hunter-Killer II | צייד-רוצח II |
 | Hunter-Killer III | צייד-רוצח III |
 | Hunter’s Kingdom | ממלכת הצייד |
+| husband… | בעל... |
 | Hvergelmir Stone | אבן הוורגלמיר |
 | Hvergelmir Stone + | אבן הוורגלמיר + |
 | Hvergelmir Stone Fragment | שבר אבן הוורגלמיר |
@@ -1695,26 +2218,152 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Hyperion Slam | חבטת היפריון |
 | Hyrrokkin’s Fiery Shard | הרסיס הלוהט של היירוקין |
 | Hyrrokkin’s Fiery Shard + | הרסיס הלוהט של היררוקין + |
+| I am a god, boy, | אני אל, ילד, |
+| I am free… | אני חופשייה... |
 | I AM PLACEHOLDER | אני מציין מיקום |
+| I am… | אני... |
+| I beg of you, | אני מתחנן, |
+| I bet this’ll lead out… | אני בטוח שזה יוביל החוצה... |
+| I can break the fever, | אני יכולה להוריד את החום, |
+| I can only imagine… | אני רק יכול לדמיין... |
+| I can translate this now… | עכשיו אני יכול לתרגם את זה... |
+| I can translate, | אני יכול לתרגם, |
+| I can’ | אני לא |
+| I can’t feel | אני לא מרגיש |
+| I can’t say for sure, | אני לא יכולה לומר בוודאות, |
+| I can’t… | אני לא יכול... |
+| I did okay, | הייתי בסדר, |
+| I didn’t think… | לא חשבתי... |
+| I do not know… | אני לא יודע... |
+| I do, but… | אני מקבל, אבל... |
+| I do! … | אני גאה! ... |
+| I don’t know… | אני לא יודע... |
+| I don’t think so… | אני לא חושב… |
+| I dunno, | לא יודע, |
+| I dunno… | לא יודע… |
+| I earned that fucking hammer, | הרווחתי את הפטיש המזדיין הזה, |
+| I feel | אני מרגיש |
+| I feel nothing, | אני לא מרגיש כלום, |
+| I feel… | אני מרגיש... |
+| I forget… | אני שוכח... |
+| I guess | אני מניח |
+| I guess I’ll just | נראה לי שאני פשוט |
+| I guess I’m just saying… | אני מניח שאני רק אומר… |
+| I guess I’m open… | נראה לי שאני פתוח... |
+| I guess so… | אני מניח... |
+| I guess, | אני מניח, |
+| I guess… | נראה לי... |
+| I have paid… | שילמתי... |
+| I hear a voice… | אני שומע קול… |
+| I heard something… | שמעתי משהו… |
+| I heard the voices again, | שמעתי שוב את הקולות, |
+| I just have to… | אני רק צריך... |
+| I just mean— | אני רק מתכוון - |
+| I just meant… | רק התכוונתי… |
+| I just realized… | הרגע הבנתי... |
+| I just… | אני פשוט... |
+| I keep breathing in ash… | אני כל הזמן נושם אפר… |
+| I know she’s really powerful, | אני יודע שהיא ממש חזקה, |
+| I know that! I… | אני יודע! אני... |
+| I know this area… | אני מכיר את האזור הזה… |
+| I know who you are… | אני יודע מי אתה... |
+| I know, | אני יודע, |
+| I know, but… | אני יודע, אבל... |
+| I know. I just— | אני יודע. פשוט— |
+| I know… | אני יודע... |
+| I love you… | אני אוהבת אותך... |
+| I made something new, | הכנתי משהו חדש, |
+| I made two knives, | הכנתי שתי סכינים, |
+| I mean | כלומר |
+| I mean, | כלומר, |
+| I mean, uh… | כלומר, אה... |
+| I mean… | כלומר... |
+| I must… | אני חייבת... |
+| I remember | אני זוכרת |
+| I remember only… | אני זוכרת רק... |
+| I saw him | ראיתי אותו |
+| I see them… | אני רואה אותם... |
+| I see… | אני מבין... |
+| I suppose | אני מניח |
+| I think I see something… | נראה לי שאני רואה משהו… |
+| I think it’s… | אני חושב שזה… |
+| I think so… | אני חושב... |
+| I think that’s a keeper… | נראה לי שזה שווה לשמור... |
+| I think you got him… | אני חושב שגמרת אותו… |
+| I told you, | אמרתי לך, |
+| I warned you— | הזהרתי אותך— |
+| I was gonna say “ancient,” | התכוונתי להגיד "עתיק", |
+| I was there— | הייתי שם - |
+| I was… | ניסיתי... |
+| I will bury you both, | אקבור את שניכם, |
+| I will not give up | לא אוותר |
+| I wish Mom were here… | הלוואי שאמא הייתה כאן… |
+| I wonder who built these… | מעניין מי בנה את אלה… |
+| I wonder… | אני תוהה... |
+| I—although… | אני... אם כי... |
+| I… but… | אני... אבל... |
+| I’d hoped that you, | קיוויתי שאתה, |
+| I’d make one myself, | הייתי עושה אחד בעצמי, |
+| I’ll be alright… | אני אהיה בסדר... |
+| I’ll come back later… | אחזור אחר כך... |
+| I’ll just be tidying up… | אני רק אסדר פה... |
+| I’ll just… | אני פשוט... |
+| I’m a god now. Let’ | אני אל עכשיו. בוא |
+| I’m comin’, | אני בא, |
+| I’m down! I’m sorry… | נפלתי! סליחה… |
+| I’m fine… | אני בסדר... |
+| I’m gettin’ back to it… | אני חוזר לעבודה... |
+| I’m here… | אני פה... |
+| I’m not sure… | אני לא בטוח... |
+| I’m not touching that. Just… | אני לא נוגע בזה. פשוט... |
+| I’m ready if you are… | אני מוכן אם אתם מוכנים... |
+| I’m ready… | אני מוכן… |
+| I’m so | אני כל כך |
+| I’m sorry… | אני מצטער... |
+| I’m… Can I… | אני... אני יכול... |
+| I’ve made mistakes, | עשיתי טעויות, |
+| I’ve seen this language before… | ראיתי את השפה הזאת בעבר... |
+| Iarl… | יארל… |
 | Icarus Storm | סערת איקרוס |
 | Ice Ancient | קדמון קרח |
 | Ice Nightmare | סיוט קרח |
 | Icy Upgrade | שדרוג קרחי |
+| Idiot… | אידיוט... |
 | Idol of Patience | אליל הסבלנות |
 | Iðunn Apple | תפוח אידון |
 | Iðunn’s Orchard | המטע של אידון |
+| If he troubles us again, | אם הוא יטריד אותנו שוב, |
+| If mom was here— | אם אמא הייתה כאן - |
+| If Sindri wants it, | אם סינדרי רוצה אותה, |
+| If so, | אם כך, |
+| if their names were different, | אם היו להם שמות אחרים, |
+| if there’s even a chance… | אם יש אפילו סיכוי... |
+| If they are spies, | אם הם מרגלים, |
+| If Thor couldn’t beat him, | אם ת'ור לא הצליח לנצח אותו, |
+| If those are Odin’s ravens, | אם אלה העורבים של אודין, |
+| If Týr possessed this, | אם טיר החזיק בה, |
+| if you control it— | אם אתה שולט בו— |
+| If you remember, | אם אתם זוכרים, |
+| If you want to help, | אם אתה רוצה לעזור, |
+| if... if I say so | אם... אם יורשה לי |
+| IGG-druh-sill | איג־דרה־סיל |
+| Ignore them. And… | התעלם מהן. ו... |
+| Imagine that… | תאר לעצמך... |
 | Immersive | סוחף |
 | Immolation | הצתה |
 | Impact | פגיעה |
 | Impossible | בלתי אפשרי |
 | In Search of Freyr | בחיפוש אחר פרייר |
 | In Service of Asgard | בשירות אסגארד |
+| In the light… | באור... |
+| in the snow… | בשלג... |
 | Incomplete Blessing | ברכה לא שלמה |
 | Increases arrow capacity to 4 | מגדיל את קיבולת החיצים ל-4 |
 | Increases arrow capacity to 5 | מגדיל את קיבולת החיצים ל-5 |
 | Increases arrow capacity to 6 | מגדיל את קיבולת החיצים ל-6 |
 | Increases arrow capacity to 7 | מגדיל את קיבולת החיצים ל-7 |
 | Increases arrow capacity to 8 | מגדיל את קיבולת החיצים ל-8 |
+| Incredible… | לא ייאמן… |
 | Indonesian | אינדונזית |
 | Infinite Blessing of Fire | ברכת אש אינסופית |
 | Infinite Focus | מיקוד אינסופי |
@@ -1810,9 +2459,13 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Inscribed Sign of Triumph | אות חקוק של ניצחון |
 | Inscribed Sign of Truth | אות חקוק של אמת |
 | Inside the Mountain | בתוך ההר |
+| Inside?! OH, no… | בפנים?! אוי, לא... |
+| Instead, | במקום זאת, |
 | Intensity | עוצמה |
 | Interact | אינטראקציה |
 | Interact / Evade | אינטראקציה / התחמקות |
+| Interesting… | מעניין... |
+| Intertwined… yes… | שזורות זו בזו... כן... |
 | Inventory | מלאי |
 | Invert Horizontal Control | היפוך שליטה אופקית |
 | Invert Vertical Control | היפוך שליטה אנכית |
@@ -1829,12 +2482,70 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | is exploring a mysterious vault | חוקר כספת מסתורית |
 | is exploring Thamur’s Corpse | חוקר את גופתו של תאמור |
 | is rediscovering the past | מגלה מחדש את העבר |
+| Is that… | זה... |
 | is travelling to the Summit | בדרך אל הפסגה |
 | is unearthing lost secrets | חושף סודות אבודים |
 | is using old Magick | משתמש בקסם ישן |
 | Island Braziers | מחתות האי |
 | Island of Light | אי האור |
 | Isle of Death | אי המוות |
+| It could, once, | יכלה, פעם, |
+| It feels so— | הוא מרגיש כל כך... |
+| it felt like | זה הרגיש כמו |
+| It felt real… | זה הרגיש אמיתי... |
+| It fits! That’s perfect… | זה מתאים! מושלם... |
+| It hasn’t… | זה לא... |
+| it involved… eh… a | זה היה קשור ל… אה… |
+| It is a command… | זו פקודה... |
+| It is from this room— | רק מהחדר הזה - |
+| It is not too late… | עוד לא מאוחר מדי... |
+| It is war… | זאת מלחמה… |
+| It is yours, | היא שלכם, |
+| It is… | זה... |
+| It looks kinda run down… | הוא נראה די בלוי... |
+| It means “freedom.” | זה אומר "חירות". |
+| It means “water.” | היא אומרת "מים". |
+| It means, “beloved.” | פירושו "אהובה". |
+| It means, “Hunting Death.” | זה אומר "מוות בציד". |
+| It means… “to believe,” | זה אומר... "להאמין", |
+| It plagues this land, | היא פוקדת את הארץ הזאת, |
+| It reads: | כתוב: |
+| It reset… | זה התאפס… |
+| it says | כתוב |
+| It says | כתוב |
+| It says “Earth.” | כתוב "אדמה". |
+| It says “Fire.” | כתוב "אש". |
+| it says “Void.” | כתוב "ריק". |
+| It says in Muspelheim, | כתוב שבמוספלהיים, |
+| It says, | כתוב כאן, |
+| It spells out: | כתוב: |
+| It was a massacre… | זה היה טבח… |
+| It was me… | זה הייתי אני... |
+| It was my brot | זה היה אחי |
+| It worked… | זה עבד… |
+| It… | הוא... |
+| It’s | זה |
+| it’s “seed.” | זה "זרע". |
+| It’s a name, I think— | זה שם, אני חושב... |
+| It’s all coming back now… | הכול חוזר אליי עכשיו... |
+| It’s all right— | זה בסדר... |
+| It’s beautiful… | זה יפהפה… |
+| it’s become something else— | הוא הפך למשהו אחר— |
+| it’s coming from up there… | זה בא משם למעלה… |
+| It’s funny… | מצחיק... |
+| It’s impossible! No way! No, | זה בלתי אפשרי! אין מצב! לא, |
+| It’s just… | רק ש... |
+| It’s like an army… | זה כמו צבא... |
+| It’s locked magically… | זה נעול בכישוף… |
+| it’s magic¸ | זאת מאגיה, |
+| It’s magically locked… | זה נעול בכישוף… |
+| it’s Sköll & Hati— | זה סקול והאטי- |
+| It’s so cold, | כל כך קר, |
+| It’s some kind of drawing… | זה סוג של ציור… |
+| It’s the main room, but | זה האולם הראשי, אבל |
+| It’s the World Serpent… | זה נחש העולם… |
+| It’s Týr! But… | זה טיר! אבל... |
+| It’s up to my— | הם מגיעים עד ה— |
 | Italian | איטלקית |
 | Item Cost | מחיר הפריט |
 | Ivaldi’s Anvil | הסדן של איוואלדי |
@@ -1878,6 +2589,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Jarnsaxa’s Fiery Shard | הרסיס הלוהט של יארנסקסה |
 | Jarnsaxa’s Fiery Shard + | הרסיס הלוהט של יארנסקסה + |
 | Jeremy Davies | ג'רמי דייוויס |
+| Johan… | יוהאן… |
 | Jörmungandr | יורמונגנדר |
 | Jötnar Marketplace | שוק הענקים |
 | Jötnar Shrines | מקדשוני הענקים |
@@ -1890,11 +2602,23 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Journey back to the mountain | שוב למסע אל ההר |
 | Journey to the Mountain | מסע אל ההר |
 | Judgment of Fire | משפט האש |
+| Judgment, no, | משיפוט, לא, |
+| Just can’t help yourself, | את פשוט לא מסוגלת להתאפק, |
+| just for a bit. I | רק לרגע. |
+| just one more time… | רק עוד פעם אחת... |
+| Just saying… | רק אומר… |
+| Just some sage advice… | סתם עצה נבונה... |
+| Just the same… | ובכל זאת... |
+| Just… | רק... |
 | Justice and War | צדק ומלחמה |
 | Kara | קארה |
 | Kara’s Helmet | הקסדה של קארה |
+| Keep looking… | תמשיך לחפש... |
 | Keep Out | הכניסה אסורה |
 | Keep Safe the Light | שמור על האור |
+| keep safe the light.” | שמור על האור." |
+| Keep your armor strong. That’s | תשמור על השריון שלך חזק. זאת |
+| Keep your distance | שמור מרחק |
 | Keepsake of the Broken Man | פריט הזיכרון של האיש השבור |
 | Key of the Fifth | מפתח החמישי |
 | Key of the First | מפתח הראשון |
@@ -1909,18 +2633,26 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Kill enemies in quick succession | הרוג אויבים ברצף מהיר |
 | Kill enemies to increase time | הרוג אויבים כדי להוסיף זמן |
 | Kill Gullveig | הרוג את גולווייג |
+| Kill me… | הרוג אותי... |
 | Kill the Captain’s Hel-Walker Crew | הרוג את צוות הולכי-הל של הקפטן |
 | Kill the Dragon | הרוג את הדרקון |
 | Kill the Hel-Walker Crew | הרוג את צוות הולכי-הל |
 | Killer’s Restoration | השיקום של הרוצח |
 | Kinetic Shield | מגן קינטי |
 | King’s Hollow | בקעת המלך |
+| know about war, | יודע על מלחמה, |
+| Know what, | אתם יודעים מה, |
+| Know your worth, | דע את ערכך, |
+| Knowing you, | בהכירי אותך, |
+| Koka full tå rjumegraut | קוקה פול טו ריומגראוט |
 | Konùnsgard | קונונסגארד |
 | Konùnsgard Entry Stone | אבן הכניסה לקונונסגארד |
 | Konùnsgard Stronghold Entry Stone | אבן הכניסה למבצר קונונסגארד |
+| Konùnsgard… | קונונסגארד... |
 | Korean | קוריאנית |
 | Kratos | קרייטוס |
 | Kratos's Face | הפנים של קרייטוס |
+| Kynslóð… | קינסלוד… |
 | Labor Complete | משימת העבודה הושלמה |
 | Labor Milestone | אבן דרך במשימת עבודה |
 | Labor Milestone: Bronze | אבן דרך במשימת עבודה: ארד |
@@ -1929,6 +2661,9 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Lake of Light | אגם האור |
 | Lake of Nine | אגם התשעה |
 | Lake Spirit | רוח האגם |
+| Lamb’s Cress… | שחליים... |
+| land of fog and fortune.” | ארץ של ערפל ושפע." |
+| land of fog and fortune” | ארץ של ערפל ושפע" |
 | Land of Kings | ארץ המלכים |
 | Landsuther Canyon | קניון לנדסות'ר |
 | Landsuther Entry Stone | אבן הכניסה של לנדסות'ר |
@@ -1936,6 +2671,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Language | שפה |
 | Language Download In Progress | הורדת השפה בתהליך |
 | Large | גדול |
+| Large stone structure, creepy atmosphere… | מבנה אבן גדול, אווירה מפחידה... |
 | Last of the Ancients | אחרון הקדמונים |
 | Last One Standing | האחרון שנותר |
 | Last Wish | משאלה אחרונה |
@@ -1950,6 +2686,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Leather | עור |
 | Leather Bracers | מגיני אמה מעור |
 | Leather Tunic | טוניקת עור |
+| Leave | עזוב |
 | Leave Them in Peace | הנח להם לנפשם |
 | Legendary | אגדי |
 | Legendary Chests | תיבות אגדיות |
@@ -1967,6 +2704,12 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Leiptr Alloy | סגסוגת לייפטר |
 | Lesser Protection of Niflheim | המחסה הפחות של ניפלהיים |
 | Lessons | שיעורים |
+| Let me | תעזבו |
+| Let me guess… | תן לי לנחש… |
+| Let me see… | תן לי לראות... |
+| Let’s go… | בוא נלך… |
+| Let’s see… | בוא נראה... |
+| Let’s try this again… | בוא ננסה שוב... |
 | Level | רמה |
 | Leviathan Awakens | הלוויתן מתעורר |
 | Leviathan Awakens: %d of %d | הלוויתן מתעורר: %d מתוך %d |
@@ -1979,6 +2722,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Leviathan’s Fury | חמת הלוויתן |
 | Leviathan’s Wake | עקבות הלוויתן |
 | License | רישיון |
+| life most pure.” | החיים הטהורים ביותר." |
 | Light | בהיר |
 | Light Arrows | חיצי אור |
 | Light Attack | התקפה קלה |
@@ -1999,7 +2743,15 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Light the West Rig | הדלק את האסדה המערבית |
 | Light War Handle | ידית מלחמה קלה |
 | Like Oil and Water | כמו שמן ומים |
+| Like the light of Alfheim… | כמו האור של אלפהיים... |
+| Like, | כאילו, |
+| Like… | כאילו... |
 | Line | קו |
+| listen close: | הקשב היטב: |
+| Listen closely now… | עכשיו תקשיבו היטב... |
+| Listen to me… | הקשב לי... |
+| Listen… | תקשיב... |
+| Little close there… | היה קצת קרוב... |
 | Load | טען |
 | Load Game | טען משחק |
 | Locate Týr’s mysterious door | אתר את הדלת המסתורית של טיר |
@@ -2011,13 +2763,26 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Logi’s Fiery Shard | הרסיס הלוהט של לוגי |
 | Logi’s Fiery Shard + | הרסיס הלוהט של לוגי + |
 | Logo | לוגו |
+| Lögr | לוגר |
 | Long Parry Shield | מגן ההדיפה הארוכה |
 | Look | הבט |
+| Look at all this… | תראו את כל זה... |
+| Look at that. It’s Thor… | תראה את זה. זה ת'ור… |
+| Look at this place… | תראה את המקום הזה… |
+| Look at this… | תראה את זה... |
+| Look at you… | תסתכל על עצמך... |
 | Look Down | הבט למטה |
 | Look Left | הבט שמאלה |
 | Look Right | הבט ימינה |
+| Look there… | תראה שם... |
 | Look Up | הבט למעלה |
+| Look what we have here… | תראו מה יש לנו כאן… |
+| Look, | תראה, |
+| Look… | תראה… |
+| Lookie… | תראו… |
 | Lookout Tower | מגדל התצפית |
+| looks like more Giant art… | נראה כמו עוד אמנות של ענקים... |
+| looks like… | נראה ש... |
 | Lore | סיפורת |
 | Lore Added | סיפורת נוספה |
 | Lore Markers | סמני סיפורת |
@@ -2027,6 +2792,8 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Lost Toy | צעצוע אבוד |
 | Lost Toy Display Case Trophy | גביע ויטרינת הצעצועים האבודים |
 | Lost Toys | צעצועים אבודים |
+| Lot on my mind, | יש לי הרבה בראש. |
+| love and hate, being… | אהבה ושנאה, שהן... |
 | Love for the Gods | אהבה לאלים |
 | Low | נמוך |
 | Lower | תחתון |
@@ -2035,9 +2802,15 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Lucky Aura | הילת מזל |
 | Lucky Coin | מטבע מזל |
 | Lucky Heart | לב מזל |
+| Lyoooooooooo— | ליוווווווווו - |
+| Machinery… | מכונות... |
+| made it difficult to… | הקשו עלינו... |
+| Made out of… | עשוי מ… |
 | Magic Combat | קרב מאגיה |
 | Magma Shield | מגן מאגמה |
 | Magni | מאגני |
+| Magni and Modi— | מאגני ומודי— |
+| Make ready… | היכון... |
 | Male Voice 1 | קול גברי 1 |
 | Male Voice 2 | קול גברי 2 |
 | Manual | ידני |
@@ -2057,14 +2830,18 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Masks Found: %d of %d | מסכות שנמצאו: %d מתוך %d |
 | Mason Entrance | כניסת הבנאי |
 | Mason Finale | סיום הבנאי |
+| Massive… | עצום… |
+| matter | האמת, |
 | Máttugr Helson | מאטוגר הלסון |
 | Maximum Brightness | בהירות מקסימלית |
 | Maximum Health Increased | הבריאות המרבית גדלה |
 | Maximum Rage Increased | הזעם המרבי גדל |
+| Maybe I’m seeing things… | אולי אני רואה דברים... |
 | Medium | בינוני |
 | Melee | תגרה |
 | Melee Combat | הברסרקר |
 | Memento of the Stolen Soul | מזכרת הנשמה הגנובה |
+| Mercy… | רחמים... |
 | Metal-Plated Bracers | מגיני אמה מצופי מתכת |
 | Metal-Plated Shoulder Guard | מגן כתף מצופה מתכת |
 | Metal-Plated Waist Guard | מגן מותניים מצופה מתכת |
@@ -2072,10 +2849,16 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Midgard | מידגארד |
 | Midgard Bridge | גשר מידגארד |
 | Midgard Lake | אגם מידגארד |
+| Midgard suffers… | מידגארד סובלת... |
+| Milady, please tell us… | גבירתי, בבקשה ספרי לנו... |
+| Mimiiiir… | מימיייייר... |
 | Mimir | מימיר |
 | Mimir and Odin | מימיר ואודין |
 | Mimir on Baldur | מימיר על באלדר |
 | Mimir on the Dead | מימיר על המתים |
+| Mimir— | מימיר - |
+| Mimir, | מימיר, |
+| Mimir… | מימיר… |
 | Mimir’s First Job | העבודה הראשונה של מימיר |
 | Mimir’s Sight | הראייה של מימיר |
 | Mimir’s Tales | הסיפורים של מימיר |
@@ -2085,6 +2868,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Minimal HUD displayed | מוצג ממשק מינימלי |
 | Minimize in Background | מזער ברקע |
 | Minimum Brightness | בהירות מינימלית |
+| Minor Aesir, perhaps, but aye… | אס זוטר, אולי, אבל כן... |
 | Minor Health Burst | פרץ בריאות קטן |
 | Minor Rage Burst | פרץ זעם קטן |
 | Minute Left | דקה נותרה |
@@ -2096,22 +2880,33 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Mists of Niflheim | ערפילי ניפלהיים |
 | Mists’ Strength | כוח הערפילים |
 | Mjölnir the Hammer | מיולניר הפטיש |
+| Mjonefr uxi… | מיונפר אוקסי… |
+| Mm! Right on time… | ממ! בדיוק בזמן... |
+| Mmm… | ממם… |
+| Mmmh… | ממממ... |
+| Mmmmm… | ממממ... |
 | Model Quality | איכות מודלים |
 | Modi | מודי |
+| moments… | רגעים… |
 | Momentum Mastery | שליטת תנופה |
 | Momentum Relic | שריד תנופה |
 | Monarch’s Vestige | שארית השליט |
 | Monitor | מסך |
 | Monitor Refresh Rate | קצב רענון המסך |
 | More Than Myth | יותר ממיתוס |
+| More… | עוד... |
+| Mother told me about him… | אמא סיפרה לי עליו... |
 | Mother would be happy | אמא הייתה שמחה |
 | Mother’s Ashes | האפר של אמא |
 | Motion Blur | טשטוש תנועה |
 | Motsògnir | מוטסוגניר |
+| Motsògnir… | מוטסוגניר... |
+| Motsògnir’s Folly.” | האיוולת של מוטסוגניר." |
 | Motsògnir’s Throne | הכס של מוטסוגניר |
 | Mountain High | גבוה בהרים |
 | Mountain Terror | אימת ההר |
 | Mountain’s Base | בסיס ההר |
+| Mourn how you wish, | התאבל כרצונך, |
 | Mouse Aim Horizontal Speed | מהירות כיוון אופקית של העכבר |
 | Mouse Aim Vertical Speed | מהירות כיוון אנכית של העכבר |
 | Mouse Horizontal Speed | מהירות אופקית של העכבר |
@@ -2160,7 +2955,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Muspelheim Trial: Gauntlet II | מבחן מוספלהיים: מסלול מכשולים II |
 | Muspelheim Trial: Gauntlet III | מבחן מוספלהיים: מסלול מכשולים III |
 | Muspelheim Trial: Gauntlet IV | מבחן מוספלהיים: מסלול מכשולים IV |
-| Muspelheim Trial: Gauntlet V | מבחן מוספלהיים: מסלול מכשולים V |
+| Muspelheim Trial: Gauntlet V | מבחן מוספלהיים: מסלול ייסורים V |
 | Muspelheim Trial: Gauntlet VI | מבחן מוספלהיים: מסלול מכשולים VI |
 | Muspelheim Trial: Kill Location Challenge | מבחן מוספלהיים: אתגר מיקום ההריגה |
 | Muspelheim Trial: Protector | מבחן מוספלהיים: המגונן |
@@ -2172,8 +2967,18 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Muspelheim Trial: Time slips away… | מבחן מוספלהיים: הזמן אוזל… |
 | Muspelheim Trial: Untouchable | מבחן מוספלהיים: בלתי ניתן לגעת |
 | Muspelheim Trials | מבחני מוספלהיים |
+| Muspelheim, Niflheim… | מוספלהיים, ניפלהיים... |
 | Muspelheim’s Eye of Power | עין העוצמה של מוספלהיים |
 | Muspelheim’s Gem of Power | אבן חן העוצמה של מוספלהיים |
+| my | את |
+| My brot | אחי |
+| My fair Gullveig… | גולווייג היפה שלי... |
+| My goods | הסחורה שלי |
+| My mind… | המוח שלי... |
+| My name on the wall— | השם שלי על הקיר— |
+| My own father | אבא שלי עצמו |
+| My sweet Gullveig… | גולווייג המתוקה שלי... |
+| My…my men are… | האנשים... האנשים שלי... |
 | Mysterious Voice | קול מסתורי |
 | Mysterious Woman | אישה מסתורית |
 | Mystic Gateway | שער מיסטי |
@@ -2187,7 +2992,14 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Mythic Pauldrons of Clarity | כתפיות מיתיות של בהירות |
 | Mythic Pauldrons of Protection | כתפיות מיתיות של מחסה |
 | Mythic War Belt of Clarity | חגורת מלחמה מיתית של בהירות |
+| Naaaah… | נההה… |
+| Nah— | לא— |
+| Nah, just… | לא, רק... |
+| Nearly got it… | כמעט הצלחתי… |
+| Need a little time here… | צריך קצת זמן... |
 | Nemean Crush | ריסוק נמאי |
+| Never in a God, | אף פעם לא אצל אל, |
+| Never leaves my mind… | זה לא יוצא לי מהראש... |
 | New Area Is Now Available | אזור חדש זמין כעת |
 | New Area Revealed | אזור חדש נחשף |
 | New Artifact Set | סט חפצים עתיקים חדש |
@@ -2216,12 +3028,16 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Next Area Currently Unavailable | האזור הבא אינו זמין כרגע |
 | Next Level | הרמה הבאה |
 | Next Line | השורה הבאה |
+| Next time… | בפעם הבאה... |
 | Next Tip | הטיפ הבא |
+| Nice lake out there— | יש אגם יפה שם בחוץ— |
 | Nice Moves | תנועות יפות |
+| Nice, | יפה, |
 | Nidavellir Blades Component | רכיב להבי נידאווליר |
 | Nidavellir Blades Component II | רכיב להבי נידאווליר II |
 | Nidavellir Blades Component III | רכיב להבי נידאווליר III |
 | Nidavellir Blades Component Perk Description | תיאור יתרון של רכיב להבי נידאווליר |
+| Nidhogg sends a message… | נידהוג שולח הודעה… |
 | Niflheim | ניפלהיים |
 | Niflheim Alloy | סגסוגת ניפלהיים |
 | Niflheim Cipher Piece | חלק צופן של ניפלהיים |
@@ -2236,9 +3052,11 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Niflheim’s Grim Reality | המציאות העגומה של ניפלהיים |
 | Nightmare | סיוט |
 | Nightmare Loot | שלל סיוטים |
+| Nightmare on your left, Brother | סיוט משמאלך, אח |
 | Nightmare Parasite | טפיל סיוט |
 | Nightmare’s Wake | בעקבות הסיוט |
 | Nightmares Killed: %d of %d | סיוטים שנהרגו: %d מתוך %d |
+| Nightmares… | סיוטים… |
 | Njord & Skadi Key | המפתח של ניורד וסקאדי |
 | Njörd of the Vanir | ניורד מבני הוואנים |
 | Njörd’s Oarsmen | החותרים של ניורד |
@@ -2254,8 +3072,14 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | No Favors Available | אין טובות זמינות |
 | No Gateway Points Available | אין נקודות שער זמינות |
 | No HUD displayed | לא מוצג ממשק |
+| No idea, | אין לי מושג, |
+| No idea, brother… | אין לי מושג, אח… |
 | No Items Available | אין פריטים זמינים |
 | No Lore Available | אין סיפורת זמינה |
+| No matter what | לא משנה מה |
+| No need to fight it, | אין צורך להילחם בו, |
+| No offense, brother, | בלי להעליב, אח, |
+| No place for children, | זה לא מקום לילדים, |
 | No Resources Available | אין משאבים זמינים |
 | No Save Data | אין נתוני שמירה |
 | No save slots available | אין משבצות שמירה פנויות |
@@ -2263,6 +3087,13 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | No Skills Available | אין מיומנויות זמינות |
 | No Submenus Available | אין תפריטי משנה זמינים |
 | No wads available | אין קובצי WAD זמינים |
+| No way up from here… | אין דרך למעלה מכאן... |
+| No, | לא, |
+| No, it’s… | לא, זה… |
+| No, no, no. That’ | לא, לא, לא. זה |
+| No! No-no-no-no, wait-wait-wait-wait-wait… | לא! לא-לא-לא-לא, רגע-רגע-רגע-רגע-רגע... |
+| no… | לא... |
+| No… | לא… |
 | None | ללא |
 | Nordic Braid Black | צמה נורדית שחורה |
 | Nordic Braid White | צמה נורדית לבנה |
@@ -2280,9 +3111,35 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Not Downloading | לא מוריד |
 | Not Enough Resources | אין מספיק משאבים |
 | Not enough XP | אין מספיק נקודות ניסיון |
+| Not Enough… | לא מספיק... |
+| Not exactly, lad, | לא בדיוק, בחור, |
+| Not for certain, but | לא בוודאות, אבל |
+| Not gonna make that… | לא נגיע לשם... |
+| Not in it— | לא בתוכו— |
+| Not just any winter, | לא סתם חורף, |
+| Not just Hel… | לא סתם הל... |
+| Not like I’ | לא שאני |
+| Not NOW… | לא עכשיו... |
 | Not Purchased | לא נרכש |
+| Not really many at all… | לא באמת הרבה בכלל... |
 | Not Supported | לא נתמך |
+| Not sure what a | לא בטוח מה זה |
+| Not the top… | לא הפסגה... |
+| Not this one… | לא את זה... |
+| Not very bright, | לא ממש חכם, |
+| Not very many graves here… | אין פה הרבה קברים... |
+| Not… my blood… | לא... הדם שלי... |
 | Nothing Is Written | דבר אינו כתוב |
+| Nothing quite so simple… | זה לא עד כדי כך פשוט... |
+| Now | עכשיו |
+| Now about that other thing… | אז לגבי הדבר האחר... |
+| Now be silent, | עכשיו שתוק, |
+| Now that you mention it… | עכשיו כשאתה מזכיר את זה... |
+| Now you’re talkin’… | עכשיו אתה מדבר... |
+| Now, | ועכשיו, |
+| Now, Head— | עכשיו, ראש— |
+| Now… | עכשיו... |
+| nowhere to go from here… | אין לאן ללכת מכאן... |
 | NVIDIA Reflex Low Latency | השהיה נמוכה של רפלקס מבית אנבידיה |
 | Objective Information | מידע על המטרה |
 | Objectives | יעדים |
@@ -2292,9 +3149,12 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Obtain all other trophies | השג את כל שאר הגביעים |
 | Obtain Ancient armor set | השג את סט השריון העתיק |
 | Obtain Traveler armor set | השג את סט שריון הנוסע |
+| Obviously not referring to us… | ברור שזה לא מתייחס אלינו... |
 | Odin and Freya | אודין ופרייה |
 | Odin and Jötunheim | אודין ויוטונהיים |
 | Odin and the Jötnar | אודין והענקים |
+| Odin slew Ymir, | אודין הרג את ימיר, |
+| Odin wants to prevent Ragnarök… | אודין רוצה למנוע את ראגנרוק… |
 | Odin’s Prophecies | הנבואות של אודין |
 | Odin’s Ravens Killed | עורבי אודין שנהרגו |
 | Odin’s Vault | הכספת של אודין |
@@ -2302,12 +3162,18 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | of Bounty | של פרס |
 | of Concentration | של ריכוז |
 | of Consideration | של שיקול דעת |
+| Of course I have it… | ברור שזכרתי... |
+| Of course I— | כמובן שאני— |
+| Of course… | ברור… |
 | of Defense | של הגנה |
 | of Determination | של נחישות |
+| of every realm, | של כל עולם, |
+| of everyone I’d faced, | מכל מי שהתמודדתי מולו, |
 | of Fervor | של להט |
 | of Focus | של מיקוד |
 | of Fortune | של שפע |
 | of Heart | של לב |
+| of himself— | את עצמו— |
 | of Luck | של מזל |
 | of Providence | של השגחה |
 | of Resilience | של חוסן |
@@ -2316,6 +3182,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | of Strength | של כוח |
 | of Survival | של הישרדות |
 | of Tenacity | של עקשנות |
+| Of the Aesir, aye, | של האסים, כן, |
 | of Toughness | של קשיחות |
 | of Triumph | של ניצחון |
 | of Vigor | של מרץ |
@@ -2325,19 +3192,101 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Ogre Loot | שלל אוגרים |
 | Ogre’s Undoing | קיצם של האוגרים |
 | Ogres Killed: %d of %d | אוגרים שנהרגו: %d מתוך %d |
+| Oh boy, | וואו, |
+| Oh dear… | אוי ואבוי... |
+| Oh look, | אוי תראה, |
+| Oh look, a different realm, | אה, תראו, עולם אחר, |
+| Oh no, no— | אוי לא, לא— |
+| Oh no… | אוי לא... |
+| Oh please… | הו, בחייכם… |
+| Oh please…(crying) | הו, בבקשה... (בוכה) |
+| Oh yeah, | אה כן, |
+| Oh yeah… | אה, נכון... |
+| Oh yes… | אה, כן... |
+| Oh— | אה— |
+| Oh—yes… | אה—כן... |
+| Oh, | הו, |
+| Oh, alright, | אה, טוב נו, |
+| Oh, and a sister named— | אה, ויש להם אחות בשם— |
+| Oh, boy… | אוי, ואו… |
+| Oh, come on, you’re fine… | הו, נו באמת, אתה בסדר… |
+| Oh, enough distractions— | אה, די עם ההסחות— |
+| Oh, fine. I’ll | אה, בסדר. אני |
+| Oh, I should say not… | אה, ממש לא… |
+| Oh, it’s you… | אה, זה אתם... |
+| Oh, look… | הו, תראה... |
+| Oh, Mimir— | הו, מימיר— |
+| Oh, no… | אוי, לא... |
+| Oh, okay, | אה, אוקיי, |
+| Oh, right, the dragon… | אה, נכון, הדרקון... |
+| Oh, that’s fine, | אה, זה בסדר, |
+| Oh, very well— | אה, טוב מאוד— |
+| Oh, wait… | אה, רגע... |
+| Oh, well… | אה, טוב... |
+| Oh!… | אה!… |
+| Oh… | אה... |
+| Oh… thought you said something… | אה... חשבתי שאמרת משהו... |
+| Oh…! I mean besides Brok… | אה…! כלומר חוץ מברוק… |
+| Ohh, yeah, | אה, כן, |
+| Ohhh… | אוווו… |
+| Ohhhh… | אוווו... |
+| Ok! Back to work… | טוב! בחזרה לעבודה... |
+| Okay— | אוקיי— |
+| okay, | אוקיי, |
+| Okay, | אוקיי, |
+| Okay, I’m ready… | אוקיי, אני מוכן… |
+| Okay, okay… | אוקיי, אוקיי... |
+| Okay, so that did something… | אוקיי, אז זה עשה משהו… |
+| Okay, that was hard… | טוב, זה היה קשה… |
+| Okay, well… | טוב, ובכן... |
+| Okay!… | אוקיי!… |
+| Okay.
+  | בסדר. |
+| Okay. Until next time… | אוקיי. עד הפעם הבאה... |
+| okay… | טוב... |
+| Okay… | אוקיי... |
+| Okay...? Uhh… this way— | אוקיי...? אהה... לכאן— |
 | Old | ישן |
+| Old magic… | מאגיה עתיקה... |
 | Olrun | אולרון |
+| Olrun was escorted to Valhalla, | אולרון לוותה לוולהאלה, |
 | Olrun’s Helmet | הקסדה של אולרון |
 | On | פועל |
 | On Magni and Modi | על מאגני ומודי |
 | On Midgard Dead | על מתי מידגארד |
+| On my mark, | באות שלי, |
 | On Overlap | בעת חפיפה |
 | On+ Boost | פעיל + האצה |
+| Once Gullveig is reborn, | ברגע שגולווייג תיוולד מחדש, |
+| Once more to the horn… | עוד פעם אחת לקרן... |
+| Once my imprisonment began, | ברגע שהתחיל מאסרי, |
+| Once, | פעם, |
+| One day, | יום אחד, |
+| One for myself, | אחת בשבילי, |
+| One hand wrote | יד אחת כתבה |
+| One inner sanctum within another… | קודש קודשים אחד בתוך אחר... |
 | One last push… | דחיפה אחרונה… |
+| One more for the collection… | עוד אחד לאוסף... |
+| one-way | בכיוון אחד |
+| Only fire | ירה רק |
+| Only if they pay, | רק אם הם משלמים, |
+| Ooh, | אוו, |
+| Oooh | אוווו |
+| Oooh close… | אוווו קרוב… |
+| Oooh… | אוווו... |
+| Ooooh… | אוווו... |
+| Oooooor… | אוווווו... |
+| Oop—there it goes again… | אופס, הנה היא שוב הולכת... |
 | Open a passage to Jötunheim | פתח מעבר ליוטונהיים |
 | Open the bridge to Jötunheim | פתח את הגשר ליוטונהיים |
 | Option | אפשרות |
 | Options | אפשרויות |
+| or the son too little… | או בבן מעט מדי... |
+| Or those blades… | או הלהבים האלה... |
+| Or, | או, |
+| or, “to have faith in.” | או "לתת אמון ב". |
+| Or, I guess… | או, אני מניח… |
+| Or… | או... |
 | Original | מקורי |
 | Ornate Bracers of Protection | מגיני אמה מעוטרים של מחסה |
 | Ornate Cup | גביע מעוטר |
@@ -2345,17 +3294,27 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Ornate Pauldrons of Vigor | כתפיות מעוטרות של מרץ |
 | Other | אחר |
 | Other Characters | דמויות אחרות |
+| other things too— | וגם דברים אחרים - |
 | Otr | אוטר |
 | Otr’s Imprisonment | המאסר של אוטר |
+| Our journey awaits… | המסע שלנו מחכה… |
+| Our lives were discipline, duty, | חיינו היו משמעת, חובה, |
+| Our son is not ready… | הבן שלנו אינו מוכן... |
+| Ours… | שלנו... |
 | Output Resolution | רזולוציית פלט |
+| Overfeed me, | תאכילני יותר מדי, |
+| Overreaction… | תגובה מוגזמת... |
 | Overwrite Save | החלף שמירה |
 | PAGEFILE: %dMB | קובץ החלפה: %dMB |
+| Pain we endure, | כאב אנחנו סובלים, |
 | Parry Enemy Attacks | הדיפת התקפות אויב |
+| parted ways, | נפרדנו, |
 | Passive Effect | השפעה פסיבית |
 | Past Haunts | רוחות העבר |
 | Pastel | פסטל |
 | Path of the Zealot | דרך הקנאי |
 | Path to the Mountain | הדרך אל ההר |
+| Pathetic… | פתטי... |
 | Pauldron of the Ancients | כתפיית הקדמונים |
 | Pauldron of the Ancients + | כתפיית הקדמונים + |
 | Pauldron of the True Warrior | כתפיית הלוחם האמיתי |
@@ -2377,10 +3336,13 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Perfect Shard of the Realm | רסיס מושלם של העולם |
 | Perfect Sigil of the Realm | חותם מושלם של העולם |
 | Perfect Symbol of the Realm | סימן מושלם של העולם |
+| Perfect— | מושלם... |
 | Performance | ביצועים |
+| Perhaps… | אולי... |
 | Perk Effect | השפעת יתרון |
 | Permafrost | כפור עולמים |
 | Permafrost Unlocked | כפור הנצח נפתח |
+| Phew… | פיו… |
 | Photo Mode | מצב צילום |
 | Photo Mode Camera | מצלמת מצב צילום |
 | Photo Mode Quick Access | גישה מהירה למצב צילום |
@@ -2388,6 +3350,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Piercing Cooldown | זמן טעינה חודר |
 | Piercing Defense | הגנה חודרת |
 | Piercing Strength | כוח חודר |
+| PIGHEADED… | עקשן... |
 | Pinstripe | פסים דקים |
 | Pinstripe Black | פסים דקים שחורים |
 | Pinstripe Clear | פסים דקים שקופים |
@@ -2399,9 +3362,17 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Plated Völunder Gauntlets | כפפות שריון מצופות של וולונדר |
 | Plated Völunder Waist Guard | מגן מותניים מצופה של וולונדר |
 | Plated Waist Guard of Protection | מגן מותניים מצופה של מחסה |
+| Please don’t eat us, | בבקשה אל תאכל אותנו, |
+| please don’t eat us… | בבקשה אל תאכל אותנו... |
+| Please! What | בחייכם! מה |
+| Please… I’m desperate… | בבקשה... אני נואש... |
 | Plume of Chaos | עמוד כאוס |
+| Plus… | ובנוסף... |
+| Pointless, | חסר תועלת, |
+| Pointless… | חסר טעם... |
 | Poison Resistance | עמידות לרעל |
 | Poison Wolf | זאב רעל |
+| Poison… | רעל… |
 | Polish | פולנית |
 | Polished Brand | צריבה מלוטשת |
 | Polished Brand of Bounty | צריבה מלוטשת של פרס |
@@ -2473,6 +3444,8 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Pommel Acquired | הושג כדור ניצב |
 | Pommel Recipes | מתכוני כדור ניצב |
 | Pommels | כדורי ניצב |
+| Poor Freya… | פרייה המסכנה... |
+| port is left… | פורט זה שמאל... |
 | Portuguese (Brasil) | פורטוגזית (ברזיל) |
 | Portuguese (Portugal) | פורטוגזית (פורטוגל) |
 | Post Effects | אפקטים לאחר עיבוד |
@@ -2528,9 +3501,11 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Pristine Dust of the Realm | אבק טהור של העולם |
 | Pristine Ore of the Realm | עפרה טהורה של העולם |
 | Pristine Scales of the Realm | קשקשים טהורים של העולם |
+| Probably by the Reavers… | כנראה בידי הבוזזים… |
 | Produced by | הפקה |
 | Prometheus Flame | להבת פרומתאוס |
 | Promise Fulfilled | הבטחה שקוימה |
+| Prosperous, | ישגשג, |
 | Protection Against the Fallen | מחסה מפני הנופלים |
 | Protection of Blight | מחסה מפני הנגע |
 | Protection of Muspelheim | המחסה של מוספלהיים |
@@ -2577,6 +3552,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Raging Smash | חבטה זועמת |
 | Raging Ultimatum | אולטימטום זועם |
 | Raging Whirlwind | מערבולת משתוללת |
+| Ragnarök. A long story… | ראגנרוק. סיפור ארוך... |
 | Rampage of the Furies | השתוללות האריניות |
 | Range | טווח |
 | Ranged Combat | קרב מטווח |
@@ -2597,21 +3573,23 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Reached the Lake of Nine | הגיע לאגם התשעה |
 | Reactivate the Ringed Temple bridge | הפעל מחדש את הגשר של המקדש הטבעתי |
 | Realign the bridge | כוונן מחדש את הגשר |
-| Realm | עולם |
+| Really livened up the place… | ממש הכניסה חיים למקום... |
+| Realm | ממלכה |
 | Realm Available | עולם זמין |
-| Realm Locked | העולם נעול |
-| Realm of the Lost | עולם האבודים |
-| Realm Shift | מעבר עולם |
+| Realm Locked | הממלכה נעולה |
+| Realm of the Lost | ממלכת האבודים |
+| Realm Shift | מעבר ממלכה |
 | Realm Tear Encounter | היתקלות בקרע עולמות |
 | Realm Temporarily Unavailable | העולם אינו זמין זמנית |
 | Realm Tower | מגדל העולם |
-| Realm travel back to Midgard | חזור למידגארד במסע בין העולמות |
-| Realm Travel Room | חדר המסעות בין העולמות |
-| Realm travel to Helheim | סע להלהיים במסע בין העולמות |
-| Realm Travel to Jötunheim | סע ליוטונהיים במסע בין העולמות |
-| Realm Unavailable | העולם אינו זמין |
-| Realm Unlocks | פתיחת עולמות |
+| Realm travel back to Midgard | חזור למידגארד במסע בין ממלכות |
+| Realm Travel Room | חדר המסעות בין הממלכות |
+| Realm travel to Helheim | סע להלהיים במסע בין ממלכות |
+| Realm Travel to Jötunheim | סע ליוטונהיים במסע בין ממלכות |
+| Realm Unavailable | הממלכה אינה זמינה |
+| Realm Unlocks | פתיחת ממלכות |
 | Reaper | הקוצר |
+| Reasonable enough… | הגיוני מספיק... |
 | Reaver | בוזז |
 | Reaver Belt | חגורת בוזז |
 | Reaver Forearm Bands | רצועות אמה של בוזז |
@@ -2626,15 +3604,19 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Rediscovering the past | מגלה מחדש את העבר |
 | Reflections | השתקפויות |
 | Refreshing Light | אור מרענן |
+| Regarding the Giant called Thamur… | בנוגע לענק שנקרא תאמור... |
+| Regarding Ymir— | בנוגע לימיר - |
 | Regenerating Essence | תמצית מתחדשת |
 | Reginn | רגין |
 | Reginn of Konùnsgard | רגין מקונונסגארד |
 | Region | אזור |
+| regret my actions… | מתחרט על מעשיי... |
 | Reinforced Leather Bracers | מגיני אמה מחוזקים מעור |
 | Reinforced Leather Chestguard | מגן חזה מחוזק מעור |
 | Reinforced Leather Legguards | מגיני רגליים מחוזקים מעור |
 | Reinforcement Material | חומר חיזוק |
 | Rejuvenating Fury | חמה מחדשת |
+| Relax… | הירגע... |
 | Release the strap | שחרר את הרצועה |
 | Remove from Compass | הסר מהמצפן |
 | Render Resolution | רזולוציית עיבוד |
@@ -2655,6 +3637,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Resources | משאבים |
 | Resources Received | משאבים שהתקבלו |
 | Resources Required | משאבים נדרשים |
+| rest now… | נוח עכשיו... |
 | Restart from Checkpoint | התחל מחדש מנקודת השמירה |
 | Restricted Camera | מצלמה מוגבלת |
 | Resurrection Stones | אבני תחייה |
@@ -2693,12 +3676,18 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Revenant (Poison) | רוח נקם (רעל) |
 | Revenant (Summoner) | רוח נקם (מזמן) |
 | Revenant Loot | שלל רוחות נקם |
+| Revenant to your left, Brother | רוח נקם משמאלך, אח |
 | Revenant’s Ruin | חורבן רוחות הנקם |
 | Revenants Killed: %d of %d | רוחות נקם שנהרגו: %d מתוך %d |
 | Revenge of Hrimthur | הנקמה של הרימתור |
 | Revenge of Niflheim | הנקמה של ניפלהיים |
+| Reverse them, | הפוך אותן, |
 | Revert | שחזר |
 | Rewards | תגמולים |
+| Right! Lotsa luck… | יופי! הרבה מזל... |
+| Right. Right, I know… | כן. כן, אני יודע... |
+| Right… | נכון... |
+| Right… “ | נכון… " |
 | Rigs Activated %d of %d | אסדות שהופעלו %d מתוך %d |
 | Ringed Temple | המקדש הטבעתי |
 | Ringed Temple Interior | פנים המקדש הטבעתי |
@@ -2709,6 +3698,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Rites of Fjörgyn | טקסי פיורגין |
 | Robert Craighead | רוברט קרייגהד |
 | Rǫcstóll aff Valkyr description | תיאור מועצת הוולקיריות |
+| rode a giant falling hammer, | רכבנו על פטיש ענק נופל, |
 | Romanian | רומנית |
 | Ròta | רוטה |
 | Ròta’s Helmet | הקסדה של רוטה |
@@ -2742,17 +3732,23 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Runic Wyrmskin Pauldrons | כתפיות רוניות מעור דרקון |
 | Rushing Chaos | כאוס דוהר |
 | Russian | רוסית |
+| Sadly, | לרוע המזל, |
 | Salvation of Niflheim | הישועה של ניפלהיים |
 | Sanctuary Grove | חורשת המקלט |
 | Save | שמור |
 | Save / Load | שמירה / טעינה |
+| save for the reavers | מלבד הבוזזים |
 | Save Last Checkpoint | שמור נקודת שמירה אחרונה |
+| Saves us some time… | חוסך לנו קצת זמן... |
 | Saving Game | שומר משחק |
+| saw… | ראית... |
+| Say the word… | רק תגיד… |
 | Scale of the Mighty | קשקש האדירים |
 | Scale of the Mighty + | קשקש האדירים + |
 | Scaled Bracers of Focus | מגיני אמה קשקשיים של מיקוד |
 | Scaled Waist Guard of Focus | מגן מותניים קשקשי של מיקוד |
 | Scatter her ashes | פזר את האפר שלה |
+| Scorch marks— | סימני חריכה— |
 | Scorn Pole | עמוד הבוז |
 | Scorn Poles | עמודי בוז |
 | Scrap Iron | גרוטאות ברזל |
@@ -2774,6 +3770,8 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Seconds | שניות |
 | Seconds Left | שניות נותרו |
 | Secret Chamber of Odin | החדר הסודי של אודין |
+| See, | אתה מבין, |
+| See! Told you… | רואה! אמרתי לך… |
 | Seething Earth | אדמה רותחת |
 | Seiðr | סיידר |
 | Seiðr Mask | מסכת סיידר |
@@ -2784,7 +3782,7 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Select | בחר |
 | Select Difficulty | בחר רמת קושי |
 | Select Level | בחר שלב |
-| Select Realm | בחר עולם |
+| Select Realm | בחר ממלכה |
 | Select WAD | בחר WAD |
 | Select weapons by Pressing [AdvanceButton] | בחר נשקים בלחיצה על [AdvanceButton] |
 | Selecting Items | בחירת פריטים |
@@ -2793,8 +3791,11 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Sell All | מכור הכול |
 | Sell Test Rune | מכירת רונת ניסיון |
 | Selling Old Armor | מכירת שריון ישן |
+| sentimental… | רגשני... |
 | Sepia | ספיה |
+| Seriously, | ברצינות, |
 | Serpent’s History | תולדות הנחש |
+| Set me free… | שחרר אותי... |
 | Settings | הגדרות |
 | SFX Volume | עוצמת קול אפקטים |
 | Shadow | צל |
@@ -2849,12 +3850,23 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Sharp Sigil of Tenacity | חותם חד של עקשנות |
 | Sharp Sigil of Triumph | חותם חד של ניצחון |
 | Sharp Sigil of Truth | חותם חד של אמת |
-| Shatter Crystals | נפץ גבישים |
+| Shatter Crystals | גבישי ניפוץ |
 | Shattered Gauntlet of Ages | כפפת השריון המנופצת של הדורות |
 | Shattered Gauntlet of Ages + | כפפת השריון המנופצת של העידנים + |
 | Shatterer | המנפץ |
+| She could fight, | היא ידעה להילחם, |
+| She didn’t even notice me… | היא אפילו לא שמה לב אליי... |
+| She walked the warrior’s path, | היא הלכה בדרך הלוחם, |
+| She was a kind woman, | היא הייתה אישה טובת לב, |
+| She was called Skaði, | קראו לה סקאדי, |
+| She was more… | היא הייתה יותר... |
+| She was… | היא הייתה... |
+| She wished her— | היא ביקשה שה— |
+| She… | היא… |
+| She’s probably not coming back, | היא כנראה לא תחזור, |
 | Sheathe / Unsheathe | נדן / שליפה |
 | Sheathed in Primordial Flame | עטוף בלהבה קדמונית |
+| Shh—something ahead… | שש—משהו לפנינו... |
 | Shield Combat | קרב מגן |
 | Shield Leap | זינוק מגן |
 | Shining Elven Soul-Shield | מגן נשמה אלפי זוהר |
@@ -2869,9 +3881,12 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Shock Potency II | חוזק הלם II |
 | Shock Potency III | חוזק הלם III |
 | Shop | חנות |
+| Shop’s open, boys… | החנות פתוחה, חבר'ה... |
 | Shops Found | חנויות שנמצאו |
 | Shores of Nine | חופי התשעה |
 | Shoulder Barrage | מטח כתפיים |
+| Shouldn’t it be | זה לא אמור להיות |
+| Shouldn’t we be open, | לא כדאי שנהיה גלויים, |
 | Show | הצג |
 | Show All | הצג הכול |
 | Show Characters | הצג דמויות |
@@ -2880,13 +3895,16 @@ then press [L3] | החזק [PrimaryMoveBackwardKey]
 | Show Fights | הצג קרבות |
 | Show Gateways | הצג שערים |
 | Show Shops | הצג חנויות |
-| Shrines Found: %d of %d | מקדשונים שנמצאו: %d מתוך %d |
+| Shrines Found: %d of %d | מזבחות שנמצאו: %d מתוך %d |
+| Shut | תשתקי |
 | Siege Guard Shield | מגן משמר המצור |
 | Sif’s Love | האהבה של סיף |
 | Sigil of the Axe | חותם הגרזן |
 | Sigil of the Weapon | חותם הנשק |
 | Sigrun | סיגרון |
+| Sigrun… | סיגרון... |
 | Sigrun’s Helmet | הקסדה של סיגרון |
+| Silent but deadly… | שקטה אבל קטלנית... |
 | Silhouette | צללית |
 | Silver: %02d:%02d
 Remaining: %d
@@ -2922,6 +3940,8 @@ Enemies Killed: %d | כסף: %d
 | Silver: Wall Pin 20 Enemies | כסף: הצמד 20 אויבים לקיר |
 | Simple Resurrection Stone | אבן תחייה פשוטה |
 | Sindri | סינדרי |
+| Sindri said… | סינדרי אמר... |
+| Sindri… | סינדרי... |
 | Sindri’s Royal Dwarven Breastplate | שריון החזה הגמדי המלכותי של סינדרי |
 | Sindri’s Royal Dwarven Breastplate + | שריון החזה הגמדי המלכותי של סינדרי + |
 | Sindri’s Royal Dwarven Gauntlets | כפפות השריון הגמדיות המלכותיות של סינדרי |
@@ -2934,6 +3954,7 @@ Enemies Killed: %d | כסף: %d
 | Sinmara’s Cinder Shard | רסיס האודם של סינמרה |
 | Skaði | סקאדי |
 | Skap Slag | סקאפ סלאג |
+| Skeeeeel-yaaaaah. Pvooooo-meeeee-thooooor… | סקיייייל-יאאאאה. פווווו-מיייי-ת'ווור... |
 | Skies of Helheim | שמי הלהיים |
 | Skill | מיומנות |
 | Skill is currently unavailable | המיומנות אינה זמינה כרגע |
@@ -2948,6 +3969,8 @@ Enemies Killed: %d | כסף: %d
 | Slayer’s Runic | הכוח הרוני של הקוטל |
 | Slayer’s Strength | הכוח של הקוטל |
 | Sleeping Monsters | מפלצות ישנות |
+| small, | קטן, |
+| Smells awful… | מסריח נורא… |
 | Smoldering Brimstone Battle Belt | חגורת קרב מגופרית רוחשת |
 | Smoldering Brimstone Battle Belt + | חגורת קרב של גופרית רוחשת + |
 | Smoldering Brimstone Gauntlets | כפפות שריון מגופרית רוחשת |
@@ -2955,20 +3978,69 @@ Enemies Killed: %d | כסף: %d
 | Smoldering Brimstone Pauldron | כתפיית גופרית רוחשת |
 | Smoldering Brimstone Pauldron + | כתפיית גופרית רוחשת + |
 | Smoldering Ember | גחלת רוחשת |
+| Snow… | שלג... |
+| So | אז |
+| So about the dead… | אז לגבי המתים... |
+| so close to the start… | כל כך קרוב להתחלה... |
+| So even in death, | אז גם במותי, |
+| so far from home… | כל כך רחוק מהבית... |
+| so I was wondering… | אז תהיתי… |
+| So I’m a man now, | אז עכשיו אני גבר, |
+| so much blood… | כל כך הרבה דם... |
+| So much blood… | כל כך הרבה דם... |
+| So much for story-time… | הלכה שעת הסיפור... |
+| So sharp… SO, so, sharp… | כל כך חדים... כל כך, כל כך חדים... |
+| So slow… | כל כך איטי... |
+| So tell me, | אז תגיד לי, |
+| So there are good gods… | אז יש אלים טובים... |
+| So there are… | אז יש... |
+| So, | אז, |
+| So, if you’re heading home… | אז אם אתם הולכים הביתה... |
+| So, Mimir… | אז, מימיר... |
+| So, uh… | אז, אה... |
+| So! This plan of yours… | אז! התוכנית הזאת שלך... |
+| so… | אז… |
+| So… | אז... |
+| So… (sniff)… | אז... (מרחרח)... |
+| So… nobody lives here, | אז… אף אחד לא גר פה, |
+| sobbing) | חרישי) |
 | Soft | רך |
 | Soft Svartalfheim Steel | פלדת סבארטאלפהיים רכה |
 | Sold | נמכר |
 | Solid Mist | ערפל מוצק |
 | Solid Svartalfheim Steel | פלדת סבארטאלפהיים מוצקה |
+| Solmund… | סולמונד… |
+| Some— | קצת— |
+| Something inside… | משהו בפנים... |
+| Something… | משהו... |
+| Something’s gotta open that gate… | משהו חייב לפתוח את השער הזה... |
+| Something’s happened… | משהו קרה... |
+| Something’s resetting the bridge… | משהו מחזיר את הגשר למקומו... |
+| somewhere… | איפשהו... |
 | Son | הבן |
 | Son Action | פעולת הבן |
+| Son— | בני— |
+| Son, | בן, |
+| Son! My magick… | בני! המאגיה שלי... |
+| Son… | בני... |
 | Son’s Scroll | המגילה של הבן |
+| Sons killing their mothers… | בנים שהורגים את האימהות שלהם... |
 | Sony Interactive Entertainment | סוני אינטראקטיב אנטרטיינמנט |
+| Soon… | בקרוב... |
+| Sooo… | אזזזז... |
+| Soooo… | אזזזז… |
+| Sorry, | סליחה, |
+| Sorry, I’m sure that’s confusing— | סליחה, אני בטוח שזה מבלבל— |
+| Sorry, you heard him… | סליחה, שמעת אותו... |
+| sorry. As | סליחה. למען |
+| Sorry… | סליחה... |
 | Sort By: %s | מיון לפי: %s |
 | Soul Devourer | טורף הנשמות |
 | Soul Eater | אוכל נשמות |
 | Soul Sword Shield | מגן חרב הנשמה |
 | Sound In Background | צליל ברקע |
+| Sounds like Odin… | נשמע כמו אודין... |
+| Sounds… | נשמע... |
 | Spanish (España) | ספרדית (ספרד) |
 | Spanish (Latinoamérica) | ספרדית (אמריקה הלטינית) |
 | Spartan Charge | הסתערות ספרטנית |
@@ -2981,6 +4053,7 @@ Enemies Killed: %d | כסף: %d
 | Speak to the spirit | דבר עם הרוח |
 | Speak to the World Serpent | דבר עם נחש העולם |
 | Speakers | רמקולים |
+| Speaking of which… | אם כבר מדברים על זה... |
 | Spear of Chaos | חנית הכאוס |
 | Special Items | פריטים מיוחדים |
 | Speech Language | שפת דיבור |
@@ -3005,6 +4078,13 @@ Enemies Killed: %d | כסף: %d
 | Standard Blessing | ברכה סטנדרטית |
 | Starkaðr | סטרקאדר |
 | Starting a New Game | מתחיל משחק חדש |
+| Stay by me, | הישאר לידי, |
+| Staying on the boat… | נשאר על הסירה... |
+| Steady… | לאט... |
+| still got it, Sindri… | עדיין יש לך את זה, סינדרי... |
+| Still nothing | עדיין כלום |
+| Still, | ובכל זאת, |
+| Still… | בכל זאת… |
 | Stone Ancient | קדמון אבן |
 | Stone Falls | מפלי האבן |
 | Stone of Fire Mastery | אבן שליטת האש |
@@ -3014,10 +4094,15 @@ Enemies Killed: %d | כסף: %d
 | Stone of the Odds | אבן הסיכויים |
 | Stonebeard King | מלך זקן האבן |
 | Stop Download | עצור הורדה |
+| Stop… please… | תפסיק... בבקשה... |
+| Stories are for the boat— | סיפורים הם לסירה - |
 | Storm of Frost | סערת כפור |
 | Storm of the Elks | סערת האיילים |
 | Strafe Assist | סיוע בתנועה צידית |
 | Strafe Assist Focus Type | סוג מיקוד בסיוע לתנועה צידית |
+| Straight ahead, | ישר קדימה, |
+| Strange contraption… | מתקן מוזר… |
+| Strange… | מוזר... |
 | Stranger | הזר |
 | Strength | כוח |
 | Strike of the Utgard | מכת אוטגארד |
@@ -3027,6 +4112,8 @@ Enemies Killed: %d | כסף: %d
 | Stun Grab Enemies | תפיסת סחרור של אויבים |
 | Stun Mastery | שליטת סחרור |
 | Stunning Enemies | סחרור אויבים |
+| Stupid and weak… | טיפש וחלש... |
+| Stupid riddles… | חידות מטופשות... |
 | Sturdy Relic | שריד איתן |
 | Sturdy Relic of Bounty | שריד איתן של פרס |
 | Sturdy Relic of Concentration | שריד איתן של ריכוז |
@@ -3099,6 +4186,7 @@ Enemies Killed: %d | כסף: %d
 | Sullen Mind | תודעה קודרת |
 | Summary | סיכום |
 | Summoner | המזמן |
+| Sunnan- | סונאן- |
 | Sunny Suljic | סאני סולג'יק |
 | Superior Blessing | ברכה משובחת |
 | Superior Fighter Tunic | טוניקת לוחם משובחת |
@@ -3111,6 +4199,11 @@ Enemies Killed: %d | כסף: %d
 | Superior Runic Vestment | גלימה רונית משובחת |
 | Superior Sharpshooter Garb | לבוש צלף משובח |
 | Superior Trinket | תכשיט משובח |
+| Sure, | בטח, |
+| Sure, but… | בטח, אבל... |
+| Sure, I’m open… | בטח, אני פתוח... |
+| Sure, it’s seen better days… | נכון, הוא ראה ימים טובים יותר... |
+| Sure… I know… | בטח... אני יודע... |
 | Surtr | סורט |
 | Surtr’s Flame | הלהבה של סורט |
 | Surtr’s Grip of Flame | אחיזת הלהבה של סורט |
@@ -3133,7 +4226,10 @@ Enemies Killed: %d | כסף: %d
 | Sway Strength | עוצמת נדנוד |
 | Swedish | שוודית |
 | Sweep Slam | חבטה סוחפת |
+| Sweet Nanna’s nethers, | בשם התחתונים של נאנה, |
+| Swim aloft in oceans above.” | שוחים מרום בימים שמעל." |
 | Switch Character | החלף דמות |
+| Swords clash… | חרבות מתנגשות... |
 | Symbol | סימן |
 | Symbol of Bounty | סימן של פרס |
 | Symbol of Concentration | סימן של ריכוז |
@@ -3159,6 +4255,7 @@ Enemies Killed: %d | כסף: %d
 | Tactician | הטקטיקן |
 | Take All | קח הכול |
 | Take Photo | צלם תמונה |
+| Take that, Thor! Ha, | קבל, ת'ור! הא, |
 | Talisman | קמע |
 | Talisman Acquired | הושג קמע |
 | Talisman of Absorbed Impact | קמע של פגיעה נספגת |
@@ -3200,6 +4297,7 @@ Enemies Killed: %d | כסף: %d
 | Talk to Brok and Sindri | דבר עם ברוק וסינדרי |
 | Talk to Sindri | דבר עם סינדרי |
 | Talk to the Reaver Spirit | דבר עם רוח הבוזז |
+| Talking to the World Serpent… | הדיבור עם נחש העולם... |
 | Talon Bow | קשת הטופר |
 | Talon Bow Upgrade | שדרוג קשת הטופר |
 | Talon Bow Upgrade II | שדרוג קשת הטופר II |
@@ -3210,13 +4308,18 @@ Enemies Killed: %d | כסף: %d
 | Talon Quiver | אשפת הטופר |
 | Tanngiost’s Marrow | מח העצם של טאנגיוסט |
 | Tap | הקש |
+| Target practice… | אימון קליעה... |
 | Tartarus Rage | זעם טרטרוס |
 | Tatzelwurm | טאצלוורם |
 | Tatzelwurm Loot | שלל טצלוורם |
 | Tatzelwurms Killed: %d of %d | טאצלוורמים שנהרגו: %d מתוך %d |
+| teacher… | מורה... |
 | Teamwork | עבודת צוות |
 | Tears of the Aesir | דמעות האסים |
 | Tears Sealed: %d of %d | קרעים שנאטמו: %d מתוך %d |
+| Tell me when… | תגיד לי מתי... |
+| Tell me… | תגידו לי... |
+| Tell you what; | אגיד לכם מה; |
 | Temp Alfheim Bridge Desc | זמני: תיאור הגשר באלפהיים |
 | Temp Alfheim Desc | זמני: תיאור אלפהיים |
 | Temp Alfheim Trench Desc | זמני: תיאור התעלה באלפהיים |
@@ -3253,29 +4356,90 @@ Enemies Killed: %d | כסף: %d
 | Text Language | שפת טקסט |
 | Text Size Increase | הגדלת גודל הטקסט |
 | Texture Quality | איכות טקסטורות |
+| Th- | ה- |
+| Th-they came b-back… | ה-הם ח-חזרו... |
 | Thai | תאית |
 | Thamur | תאמור |
+| Thamur chased after his son, | תאמור רדף אחרי בנו, |
 | Thamur’s Chisel | האזמל של תאמור |
 | Thamur’s Corpse | הגופה של תאמור |
+| Thanks, Sindri— | תודה, סינדרי— |
+| Thanks… | תודה... |
+| That arrow… | החץ הזה... |
+| That chain… | השרשרת הזאת... |
+| that damn hammer, | והפטיש הארור הזה, |
+| That dead man… | האיש המת הזה... |
+| That gate… | השער הזה… |
+| That hanging bucket, | הדלי התלוי הזה, |
+| that I could use… | שאוכל להשתמש בה... |
+| That is not necess— | זה לא נח— |
+| That is their matter alone, | זה עניין שלהם בלבד, |
+| That island… | האי ההוא... |
+| That may be significant… | ייתכן שזה משמעותי... |
+| That really does sting… | זה באמת צורב... |
+| That right there… | הדבר הזה שם... |
+| That ship again… | שוב הספינה הזאת… |
+| that should do… | זה אמור להספיק... |
+| That spirit… | הרוח ההיא... |
+| That stuff’s strong… | החומר הזה חזק… |
+| That troll was Dauði Kaupmadr, | הטרול הזה היה דאודי קאופמדר, |
+| That war— | המלחמה ההיא... |
+| That was Brenna Dauði, | זה היה ברנה דאודי, |
+| that was hard… | זה היה קשה… |
+| that was not easy— | זה לא היה קל- |
+| That was weird… | זה היה מוזר… |
+| That was… | זה היה... |
+| That… | זה… |
+| That… that was amazing… | זה… זה היה מדהים… |
+| that’s chilly… | קריר… |
+| That’s funny… | זה מצחיק... |
+| that’s nice… | זה נעים… |
+| that’s not right… | זה לא בסדר... |
+| That’s RIGHT— | בדיוק כך— |
+| That’s right… | נכון... |
+| that’s sad… | זה עצוב... |
+| That’s true… | זה נכון... |
+| That’s weird… | מוזר… |
+| that’s— | זה... |
+| That’s… | זה... |
 | The Aesir’s Punishment | העונש של האסים |
 | The Anatomy of Hope | האנטומיה של התקווה |
+| The answer might be near, | ייתכן שהתשובה קרובה, |
+| The arcane runes… | הרונות המסתוריות... |
+| The axe did not return… | הגרזן לא חזר… |
 | The Beginning of the End | תחילת הסוף |
 | The Best Moves | התנועות הטובות ביותר |
 | The Black Rune | הרונה השחורה |
 | The Boat Captain’s Key | המפתח של קפטן הסירה |
+| The boat’s shifting! I’m gonna— | הסירה זזה! אני עומד ל— |
+| The body at your feet… | הגופה שלרגליך... |
+| The boy… | הילד... |
+| The chain, | השרשרת, |
 | THE CHALLENGE ARENA | זירת האתגר |
 | The Charm of Infinite Storms | קסם הסערות האינסופיות |
+| The coughing… the blood… | השיעול... הדם... |
+| The Council of Eight… | מועצת השמונה... |
+| The craftsmanship… | האומנות... |
 | The Curse of Ivaldi | קללת איוואלדי |
+| the diseased, the criminals… | החולים, הפושעים... |
+| The dragon shrine… | המקדשון של הדרקון... |
 | The Dream of Midgard | החלום של מידגארד |
 | The Dusk Veil | צעיף הדמדומים |
 | The Eternal War | המלחמה הנצחית |
 | The Exile’s Guardian | השומר של הגולה |
 | The Eyes of Odin | העיניים של אודין |
 | The Faces of Magic | פני הקסם |
+| The fate of the Valkyries… | גורל הוולקיריות... |
+| The fault is mine… | האשמה שלי... |
 | The Fire of Reginn | האש של רגין |
 | The Fire Realm | עולם האש |
+| the fire realm, | עולם האש, |
 | The Flight of Fáfnir | המעוף של פפניר |
+| The frog agreed, | הצפרדע הסכימה, |
+| the fruits of my sacrifice— | זה פרי ההקרבה שלי— |
+| The Giant was called Thrym… | הענק נקרא תרים... |
 | The Giant’s Chisel | האזמל של הענק |
+| The Giants called me | הענקים קראו לי |
 | The Goddess Freya | האלה פרייה |
 | The Gravedigger | הקברן |
 | The Great Mountain | ההר הגדול |
@@ -3283,7 +4447,9 @@ Enemies Killed: %d | כסף: %d
 | The Hall of Týr | האולם של טיר |
 | The Hammer Head | ראש הפטיש |
 | The Hanged God | האל התלוי |
+| The head… | הראש... |
 | The Heart of the Lucky | לב בר המזל |
+| The heart… | הלב... |
 | The High Council | המועצה העליונה |
 | The Historian | ההיסטוריון |
 | The Hræzla Farmaðr | הרייזלה פארמאדר |
@@ -3295,36 +4461,127 @@ Enemies Killed: %d | כסף: %d
 | The Journey Begins | המסע מתחיל |
 | The Journey Home | המסע הביתה |
 | The Key to Konùnsgard | המפתח לקונונסגארד |
+| The Lamb’s Cress… | שחלת הטלה… |
 | The Last Hunt | הציד האחרון |
 | The Last Place They’d Look | המקום האחרון שיחפשו בו |
 | The Light Elves | אלפי האור |
 | The Light of Alfheim | האור של אלפהיים |
+| The light… | האור… |
 | The Long, Cruel War | המלחמה הארוכה והאכזרית |
 | The Magic Chisel | האזמל הקסום |
 | The Marked Trees | העצים המסומנים |
 | The Mason’s Channel | התעלה של הבנאי |
 | The Maze | המבוך |
 | The Missing Tower | המגדל החסר |
+| The more you fight, | ככל שתילחם יותר, |
 | The Mother’s Ashes | האפר של האם |
 | The Mountain | ההר |
-| The Realm Between Realms | העולם שבין העולמות |
-| The Realm of Fire | עולם האש |
-| The Realm of Fog | עולם הערפל |
+| The mountain… | ההר... |
+| the old, | הזקנים, |
+| The opposite, in fact… | בעצם, ההפך... |
+| The path ahead — | השביל קדימה - |
+| The pedestal… | הכן... |
+| The pile of rocks there— | ערימת הסלעים שם— |
+| The Realm Between Realms | הממלכה שבין הממלכות |
+| The Realm Between Realms… | העולם שבין העולמות... |
+| The Realm of Fire | ממלכת האש |
+| The Realm of Fog | ממלכת הערפל |
+| The rest… | כל השאר... |
+| The riddle— | החידה— |
 | The River of Knives | נהר הסכינים |
 | The River Pass | מעבר הנהר |
 | The Road Less Traveled | הדרך הפחות מוכרת |
+| The Rǫcstóll aff Valkyrs… | הרוקסטול אף ולקירס... |
 | The Serpent | הנחש |
+| the sheen… The gilding… | הברק... ההזהבה... |
 | The Sickness | המחלה |
+| The sickness… | המחלה... |
+| The Soul Eater got him… | אוכל הנשמות תפס אותו… |
 | The Soul Eaters | אוכלי הנשמות |
 | The Stranger | הזר |
+| The strength you would need… | הכוח שהייתם צריכים... |
 | The Summit | הפסגה |
+| The tip of one, yes… | את הקצה של אחד, כן... |
 | The Truth | האמת |
+| The truth… | האמת... |
 | The Turtle’s Tribute | המנחה של הצב |
+| The upside-down door… | הדלת ההפוכה... |
+| The Valkyrie… | הוולקיריה... |
+| The voice is impressed… | הקול מתרשם… |
+| The voices I heard, I… | הקולות ששמעתי, אני… |
+| The waterfall… | המפל… |
 | The Witch of the Woods | מכשפת היער |
+| Then I must return home… | אז עליי לחזור הביתה... |
+| Then Thor shows up— | ואז ת'ור מופיע - |
+| Then… | אז... |
+| There he is… | הנה הוא... |
+| There should be one more… | אמור להיות עוד אחד… |
+| There y’are… | הנה אתם... |
+| There you go, | הנה לך, |
+| There you go, lad… | הנה לך, בחור... |
+| There—on the left… | שם — משמאל... |
+| There’s a Jötnar settlement ahead… | יש יישוב של ענקים לפנינו... |
+| There’s a Light Crystal ahead— | יש גביש אור שם קדימה - |
+| There’s something behind you… | יש משהו מאחוריך… |
+| There’s something written here… | משהו כתוב כאן... |
+| These bones pulse with magic… | העצמות האלה פועמות במאגיה... |
+| These dead… | המתים האלה... |
+| These ruins again… | שוב החורבות האלה… |
+| These tracks… | העקבות האלה... |
+| They betrayed him… | הם בגדו בו... |
+| They called it Jötunheim, | הם קראו לה יוטונהיים, |
+| they came | הם |
+| They did? Ew… | באמת? איכס... |
+| they emanate heat | הם מקרינים חום |
+| They said: | הם אמרו: |
+| They sound almost like… | זה נשמע כמעט כמו... |
+| They sure are beautiful creatures, | הם באמת יצורים יפהפיים, |
+| They swore the sirens— | הם נשבעו שהסירנות - |
+| They were a gift… | הם היו מתנה... |
+| They were pretty weak… | הם היו די חלשים… |
+| they’ll say ‘sindri!’ | הם יגידו "סינדרי!" |
+| They’re all grouped together… | כולם מקובצים יחד... |
+| they’re Dwarves, | הם גמדים, |
+| they’re family… | הם משפחה... |
+| They’re… | הם... |
 | Thiazi’s Talon | הטופר של תיאצי |
+| Things happened that… | קרו דברים ש... |
+| Think you can… spot… | חושבים שתוכלו… לזהות… |
+| This area looks familiar… | האזור הזה נראה מוכר… |
+| This chisel we seek— | האזמל הזה שאנחנו מחפשים - |
 | This does not look good… | זה לא נראה טוב… |
+| this goes on and on… | זה נמשך ונמשך... |
+| this is Duraþrór, | זה דורת'רור, |
+| This looks interesting… | זה נראה מעניין… |
+| This one is “Thrym”— | זה "תרים"- |
+| This one, I believe, means— | זו, אני מאמין, פירושה - |
+| This one’s called Ymir… | את זה קוראים ימיר... |
+| This Queen of yours… | המלכה הזאת שלך... |
+| This road… | הדרך הזאת... |
+| This says: | כתוב פה: |
+| This should be entertaining… | זה אמור להיות משעשע... |
+| This should get us across… | זה אמור להעביר אותנו לצד השני... |
+| This sigil looks familiar… | החותם הזה נראה מוכר… |
+| This staining is unusual… | הכתמים האלה יוצאי דופן... |
+| This temple has been asleep, | המקדש הזה ישן, |
+| This Valhalla… | ולהאלה הזאת... |
+| This waking dream… | החלום הער הזה... |
+| This way… | בדרך הזאת... |
+| Thor… | ת'ור… |
+| Thorvid… | ת'ורוויד… |
+| Those roots— | השורשים האלה - |
+| Those runes are of Muspelheim, | הרונות האלה הן של מוספלהיים, |
+| Those runes… | הרונות האלה... |
+| Those symbols… | הסימנים האלה... |
+| Those tapestries… | השטיחים האלה... |
+| Those were the days… | אלה היו ימים… |
+| Though he found two, | אמנם הוא מצא שניים, |
+| Thought I heard something… | נדמה לי ששמעתי משהו… |
+| Thought that would work… | חשבתי שזה יעבוד... |
 | Threat Indicator | מחוון סכנה |
+| throat.] | בגרונו.] |
 | Thrym | תרים |
+| Thrym’s palace was in Jötunheim, | הארמון של תרים היה ביוטונהיים, |
 | Thunder’s Vale | עמק הרעם |
 | Tier | דרגה |
 | Tier 1 Region Loot | שלל אזור דרגה 1 |
@@ -3334,7 +4591,19 @@ Enemies Killed: %d | כסף: %d
 | Time of the Jotunn | זמנו של היוטון |
 | Time Remaining:   | זמן שנותר:   |
 | Time to Climb… | הגיע הזמן לטפס… |
+| to carry your ashes… | לשאת את האפר שלך... |
+| To give up this easily, | לוותר כל כך בקלות, |
+| To live… | לחיות… |
+| To relive them is… | לחיות אותם מחדש זה… |
 | To See Her Again | לראות אותה שוב |
+| to see her again, | לראות אותה שוב, |
+| To spring forth life tomorrow.“ | כדי להצמיח חיים מחר." |
+| To trap me here | ללכוד אותי כאן |
+| Today, | היום, |
+| Together, they killed the stag, | יחד, הם הרגו את האייל, |
+| Too beautiful. Too, | יפה מדי. מדי, |
+| Too late, | מאוחר מדי, |
+| too… | מדי... |
 | Toothgnasher | חורק השיניים |
 | Top Center | למעלה במרכז |
 | Top Left | למעלה משמאל |
@@ -3344,6 +4613,7 @@ Enemies Killed: %d | כסף: %d
 | Touch of Death | מגע המוות |
 | Track | עקוב |
 | Tracked Favor | טובה במעקב |
+| Trap… | מלכודת... |
 | Travel to Alfheim | סע לאלפהיים |
 | Travel to Realm | מסע לעולם |
 | Travel’s End | סוף המסע |
@@ -3378,6 +4648,7 @@ Enemies Killed: %d | כסף: %d
 | Trial V: Impossible | מבחן V: בלתי אפשרי |
 | Trial V: Normal | מבחן V: רגיל |
 | Trial VI: Impossible | מבחן VI: בלתי אפשרי |
+| Tricky… | מסובך… |
 | Trilingual | תלת-לשוני |
 | Trinket | תכשיט |
 | Trinket of Blood Lust | תכשיט של תאוות דם |
@@ -3391,6 +4662,7 @@ Enemies Killed: %d | כסף: %d
 | Trolls | טרולים |
 | Trolls Killed: %d of %d | טרולים שנהרגו: %d מתוך %d |
 | Troubling Consequences | השלכות מטרידות |
+| Try the song— | נסה את השיר— |
 | Tunic of Hope | טוניקת התקווה |
 | Tunic of the Champion | טוניקת האלוף |
 | Turkish | טורקית |
@@ -3414,6 +4686,18 @@ Enemies Killed: %d | כסף: %d
 | Týr’s Talisman | הקמע של טיר |
 | Týr’s Temple | המקדש של טיר |
 | Týr’s Vault | הכספת של טיר |
+| tyrant… | וחמדן... |
+| ugh | איכס |
+| Ugh—glad that’s over… | אוף, טוב שזה נגמר… |
+| Ugh… my head… | אוף… הראש שלי… |
+| Ugh… Uuuughhhh… | איכס… איכסססס… |
+| Uh huh… | אהה... |
+| Uh-oh… | אוי-אוי... |
+| uh… | אה... |
+| Uh… | אה... |
+| Uh… I really can’t… | אה… אני ממש לא יכול… |
+| Uh… okay, Mimir… | אה… בסדר, מימיר… |
+| Uh… wait… | אה… רגע… |
 | UI Brightness | בהירות ממשק המשתמש |
 | Ulfhednar Pelt Fragment | שבר פרוות אולפהדנאר |
 | Ullr’s Yew Fragment | שבר הטקסוס של אולר |
@@ -3422,7 +4706,12 @@ Enemies Killed: %d | כסף: %d
 | Ultra Performance | ביצועי אולטרה |
 | Ultra Quality | איכות אולטרה |
 | Ultra+ | אולטרה+ |
+| Um, | אממ, |
+| Um… | אממ... |
+| Umm… | אממ... |
 | Unavailable | לא זמין |
+| Unbelievable… | בלתי נתפס… |
+| uncertain. My mind… | לא בטוחה. המוח שלי... |
 | Undiscovered | לא התגלה |
 | Unearthing lost secrets | חושף סודות אבודים |
 | Unequip | הסר |
@@ -3432,19 +4721,22 @@ Enemies Killed: %d | כסף: %d
 | Unlock Muspelheim | פתח את מוספלהיים |
 | Unlock Niflheim | פתח את ניפלהיים |
 | Unlock Skills | פתיחת מיומנויות |
-| Unlock the Realm of Muspelheim | פתח את עולם מוספלהיים |
-| Unlock the Realm of Niflheim | פתח את עולם ניפלהיים |
+| Unlock the Realm of Muspelheim | פתח את ממלכת מוספלהיים |
+| Unlock the Realm of Niflheim | פתח את ממלכת ניפלהיים |
 | Unrestricted Camera | מצלמה חופשית |
 | Unsocket | הוצא מהחריץ |
 | Unstable Blessing | ברכה לא יציבה |
 | Unstable Ore | עפרה לא יציבה |
 | Unstoppable Aura | הילה בלתי נעצרת |
+| Until then, | עד אז, |
 | Untrack | הפסק מעקב |
 | Unyielding Cinders | גחלים עיקשות |
 | Unyielding Defense | הגנה בלתי נכנעת |
 | Unyielding Runic | כוח רוני בלתי נכנע |
 | Unyielding Strength | כוח בלתי נכנע |
 | Up | למעלה |
+| Up you go… | קדימה, קום... |
+| Up, boy… | קום, ילד... |
 | Upgrade | שדרוג |
 | Upgrade a piece of armor | שדרג פריט שריון |
 | Upgrade Armor | שדרג שריון |
@@ -3514,6 +4806,7 @@ Enemies Killed: %d | כסף: %d
 | Upgraded | שודרג |
 | Upgraded to max | שודרג למקסימום |
 | Upgrading Increases Stats | שדרוג מגביר נתונים |
+| Urgh… | אורג… |
 | Use Atreus’s Summons | השתמש בזימונים של אטריוס |
 | Use the lift | השתמש במעלית |
 | Use the sand bowl | השתמש בקערת החול |
@@ -3544,13 +4837,20 @@ Enemies Killed: %d | כסף: %d
 | Vanaheim Sealed | ונהיים חתומה |
 | Vanaheim Tower | מגדל ונהיים |
 | Various bug fixes and improvements | תיקוני באגים ושיפורים שונים |
+| various… | כל מיני... |
 | Veithurgard | וייטורגארד |
 | Veithurgard Pass | מעבר וייטורגארד |
+| Veithurgard: | וייטורגארד: |
 | Versatile Warrior’s Handle | הידית של הלוחם הרב-גוני |
 | Versatile Warrior’s Handle + | ידית הלוחם הרב-גוני + |
 | Vertical Rotation Speed | מהירות סיבוב אנכית |
 | Very Hard | קשה מאוד |
+| Very strange indeed… | מוזר מאוד, באמת... |
+| Very well— | טוב מאוד— |
+| Very well, my brothers— | טוב מאוד, אחים שלי - |
+| Very well… | טוב מאוד... |
 | Vestment of the Hunter | גלימת הצייד |
+| vetr, | וטר, |
 | Vibrant | תוסס |
 | Video | וידאו |
 | Video Device | התקן וידאו |
@@ -3558,6 +4858,7 @@ Enemies Killed: %d | כסף: %d
 | Vietnamese | וייטנאמית |
 | View Controls | הצג פקדים |
 | View in Menu | הצג בתפריט |
+| Vifil… | ויפיל… |
 | Vignette | הצללת שוליים |
 | Vignette Falloff | דעיכת הצללת שוליים |
 | Vignette Intensity | עוצמת הצללת שוליים |
@@ -3570,6 +4871,7 @@ Enemies Killed: %d | כסף: %d
 | Viken Waist Guard | מגן מותניים של ויקן |
 | Vikens Killed: %d of %d | ויקנים שנהרגו: %d מתוך %d |
 | Viking Horn | קרן ויקינגית |
+| Vindr… | וינדר... |
 | Visit Brok or Sindri | בקר את ברוק או את סינדרי |
 | Vitality | חיוניות |
 | Vivarium Key Stone | אבן המפתח של הביבריום |
@@ -3583,6 +4885,11 @@ Enemies Killed: %d | כסף: %d
 | Waist Armor Acquired | הושג שריון מותניים |
 | Waist Armor Upgrade | שדרוג שריון מותניים |
 | Waist Guard of the Valkyrie | מגן המותניים של הוולקיריה |
+| Wait for it… | חכו לזה... |
+| Wait— | רגע— |
+| Wait, | רגע, |
+| Wait, no, | רגע, לא, |
+| Wait… | רגע... |
 | War Belt of Ares | חגורת המלחמה של ארס |
 | War Belt of Fallen Ash | חגורת המלחמה של האפר הנופל |
 | War Belt of the Traveler | חגורת המלחמה של הנוסע |
@@ -3592,14 +4899,39 @@ Enemies Killed: %d | כסף: %d
 | Warrior’s Health Burst | פרץ הבריאות של הלוחם |
 | Warrior’s Protective Barrier | מחסום המגן של הלוחם |
 | Warrior’s Unstoppable Aura | ההילה הבלתי נעצרת של הלוחם |
+| Was it… | זה היה... |
+| Was kind of hoping though… | קיוויתי קצת, בכל זאת... |
+| Was that… | זה היה... |
+| Watch out—we got more… | זהירות - יש עוד... |
+| watching over us… | שומרת עלינו... |
 | Wave Complete | הגל הושלם |
 | Wave Complete   Stay Focused | הגל הושלם   הישאר מרוכז |
 | Wayward Spirits | רוחות תועות |
+| We are blowing the horn… | אנחנו תוקעים בקרן… |
+| we both are doomed / | ושנינו אבודים / |
+| We did it— | הצלחנו— |
+| We do it together, | נעשה את זה יחד, |
+| We got that chisel now, | יש לנו את האזמל עכשיו, |
+| We had that… | זה היה בכיס… |
+| We have one goal: | יש לנו מטרה אחת: |
+| We kille— | הרג— |
+| We met, | נפגשנו, |
+| We must be getting stronger; | אנחנו בטח מתחזקים; |
+| We signal the— | אנחנו מאותתים ל— |
+| we two, we three / | אנו שניים, אנו שלושה / |
+| We use that… | אנחנו משתמשים בו... |
+| We were at… | היינו ב... |
+| We’ll catch up later… | נדבר אחר כך... |
+| we’re here, | אנחנו כאן, |
+| We’re not reaching that platform… | אנחנו לא מגיעים לרציף הזה... |
+| We’ve been standing here awhile… | אנחנו עומדים כאן כבר הרבה זמן… |
+| Weak and pathetic… | חלש ועלוב... |
 | WEAKEN Potency | חוזק החלשה |
 | Weakness | חולשה |
 | Weapon | נשק |
 | Weapon Pommels | כדורי ניצב לנשק |
 | Weapons | כלי נשק |
+| Weapons are honed by fire, | כלי נשק מחושלים באש, |
 | WeaponType1 | סוג נשק 1 |
 | Weighted Grip of Fury | אחיזה משוקלת של חמה |
 | Weighted Grip of Restoration | אחיזה משוקלת של שיקום |
@@ -3608,9 +4940,43 @@ Enemies Killed: %d | כסף: %d
 | Weighted War Handle | ידית מלחמה משוקלת |
 | Weightless Grips of Protection | אחיזות מחסה חסרות משקל |
 | Weightless War Handles | ידיות מלחמה חסרות משקל |
+| Welcome back… to… | ברוכים השבים... אל... |
+| Well | טוב |
 | Well this isn’t good… | טוב, זה לא טוב… |
+| well, | ובכן, |
+| Well, | טוב, |
+| Well, after Brok and I | טוב, אחרי שברוק ואני |
+| Well, as I recall… | ובכן, אם אני זוכר נכון… |
+| Well, I’m not sure… | טוב, אני לא בטוח... |
+| Well, in that case… | טוב, אם כך... |
+| Well, there it is… | טוב, הנה זה… |
+| Well. Yeah… | טוב. כן... |
+| Well… | ובכן... |
+| Well… this seems frustrating… | ובכן… זה נראה מתסכל… |
 | West Mining Rig | אסדת הכרייה המערבית |
+| What | מה |
+| What a strange machine… | איזו מכונה מוזרה… |
+| what I do or say, | מה אני עושה או אומר, |
+| What she did not know | מה שהיא לא ידעה |
+| What you did to me… | מה שעשית לי... |
+| what you… | מה ש... |
+| What? I can grow too… | מה? גם אני יכול לגדול... |
+| What? No! Father… | מה? לא! אבא... |
+| What… | מה... |
+| whatever this place is, | מה שהמקום הזה לא יהיה, |
+| Whatever you feel, boy… | מה שלא תרגיש, ילד... |
+| Whatever you say… | כמו שאתה אומר… |
+| Whatta you know… | מה אתה כבר יודע... |
 | When Aiming | בזמן כיוון |
+| When no one’s looking… | כשאף אחד לא יסתכל... |
+| When reversed, | כשהוא הפוך, |
+| When she collected her quarry, | כשאספה את הטרף שלה, |
+| When you lose… | כשאתה מאבד... |
+| When you shoot these, | כשתירה אותם, |
+| Where to go next… | לאן ללכת עכשיו… |
+| Where you came from… | מאיפה שבאת... |
+| Whew, | פיו, |
+| Whew… | פיו... |
 | Whirling Chaos | כאוס מסתחרר |
 | Whirling Storm | סערה מסתחררת |
 | Whirlwind Fury | חמת המערבולת |
@@ -3618,21 +4984,42 @@ Enemies Killed: %d | כסף: %d
 | Whirlwind Throw | הטלת מערבולת |
 | Whirlwind Toss | זריקת מערבולת |
 | Whitepoint | נקודת לבן |
+| Who | מי |
+| Whoa, fire… | וואו, אש... |
+| Whoa. What’s it— | וואו. מה זה... |
+| Whoa… | וואו… |
+| Whoah… | וואו… |
+| Whoo! Alright…! Treasure time… | יו! יופי…! זמן אוצרות… |
+| Whoo… | וואו… |
+| Whoof… | וואו... |
+| Why aren’t we— | למה אנחנו לא— |
+| Why, I remember once— | הרי אני זוכר שפעם... |
+| Why… | רגע... |
 | Wide Hud | ממשק רחב |
 | Wildwood’s Edge | קצה היער הפראי |
 | Wildwoods | היערות הפראיים |
+| will bite him, | ינשוך אותו, |
 | Will to Power | רצון לעוצמה |
 | Windowed | חלון |
 | Winds of Hel | רוחות הל |
 | Winds of Hel Energy | אנרגיית רוחות הל |
 | Wing of the Fallen | כנף הנופלים |
 | Wing of the Fallen + | כנף הנופלים + |
+| Winter last… | החורף אחרון... |
+| Winter— | חורף— |
+| Winter, | חורף, |
+| Winter, Spring, Summer, | חורף, אביב, קיץ, |
+| Wisdom… | תבונה... |
 | Witch of the Woods | מכשפת היער |
 | Witch’s Cave | מערת המכשפה |
 | Witch’s Cave Lower Level | המפלס התחתון של מערת המכשפה |
 | Witch’s Cave Upper Level | המפלס העליון של מערת המכשפה |
 | Witch’s Compass | המצפן של המכשפה |
 | Witch’s House | הבית של המכשפה |
+| with all that power… | עם כל העוצמה הזאת... |
+| With luck, | אם יתמזל מזלנו, |
+| with you… | איתך... |
+| Without the Valkyries, | בלי הוולקיריות, |
 | Wolf Loot | שלל זאבים |
 | Wolf Trinket | תכשיט זאב |
 | Wolf’s Bane | קללת הזאבים |
@@ -3658,6 +5045,10 @@ Enemies Killed: %d | כסף: %d
 | Worn Wrappings of Exile | עטיפות שחוקות של גלות |
 | Worthy | ראוי |
 | Woven Shoulder Guard of Exile | מגן כתף ארוג של גלות |
+| wow, | וואו, |
+| Wow, | וואו, |
+| Wow, kid… | וואו, ילד... |
+| Wow… | וואו… |
 | Wrath of Artemis | חרון ארטמיס |
 | Wrath of Flame | חרון הלהבה |
 | Wrath of the Frost Ancient | חרון עתיק הכפור |
@@ -3667,10 +5058,30 @@ Enemies Killed: %d | כסף: %d
 | Wrist Armor Upgrade | שדרוג שריון מפרק |
 | Wulver | וולבר |
 | Wulver Loot | שלל וולבר |
+| Wulver to the right, | וולבר מימין, |
 | Wulvers Killed: %d of %d | וולברים שנהרגו: %d מתוך %d |
+| Wulvers… | וולברים... |
 | Wurm-slayer | קוטל הוורמים |
+| Yea, | כן, |
+| Yeah— | כן - |
+| Yeah, | כן, |
+| Yeah, but… | כן, אבל... |
+| Yeah, I do. Smells like— | כן, אני מריח. מריח כמו - |
+| Yeah, I know… | כן, אני יודע... |
+| Yeah, we… | כן, אנחנו... |
+| Yeah… | כן... |
+| Yeah… that’s… | כן... זה... |
 | Years Later… | שנים אחר כך… |
+| Yech… | יאק… |
+| Yeeeah… | כןןן... |
+| Yeh… | כן... |
 | Yes | כן |
+| Yes sir… | כן, אדוני... |
+| Yes, | כן, |
+| Yes; | כן; |
+| Yes. Be silent… | כן. שקט... |
+| yes… | כן... |
+| Yes… | כן... |
 | Yggdrasil’s Dew | הטל של איגדרסיל |
 | Yggdrasil’s Dew of Cooldown | טל איגדרסיל של זמן טעינה |
 | Yggdrasil’s Dew of Defense | טל איגדרסיל של הגנה |
@@ -3678,14 +5089,44 @@ Enemies Killed: %d | כסף: %d
 | Yggdrasil’s Dew of Runic Power | טל איגדרסיל של עוצמה רונית |
 | Yggdrasil’s Dew of Strength | טל איגדרסיל של כוח |
 | Yggdrasil’s Dew of Vitality | טל איגדרסיל של חיוניות |
+| Yikes… | אוי… |
 | Ymir | ימיר |
 | Ymir’s Breath | הנשימה של ימיר |
 | Ymir’s Breath + | נשימת יימיר + |
 | Ymir’s Vengeance | הנקמה של ימיר |
+| You | אתם |
+| You and your magic… | את והמאגיה שלך... |
+| You are | אתם |
+| You are just an animal… | אתה סתם חיה... |
+| You are unworthy… | אינך ראוי... |
+| You bore me. (laughter) | אתה משעמם אותי. (צחוק) |
+| You don’t look too good… | אתה לא נראה כל כך טוב… |
+| YOU FOOLISH… | אתה טיפש... |
 | You have | יש לך |
+| You have been freed, | שוחררת, |
+| You have my eternal gratitude, | יש לכם את תודתי הנצחית, |
+| You have no idea what… | אין לך מושג מה... |
+| you know… | אתה יודע... |
+| You know… | את יודעת… |
+| You left me here alone… | השארת אותי פה לבד… |
+| You never care about anything… | אף פעם לא אכפת לך משום דבר… |
+| You two | שניכם |
+| You were saying something about… | אמרת משהו על... |
+| You will always be | תמיד תהיה |
+| You will be whole again… | את תהיי שלמה שוב... |
+| you won’t | את לא |
+| You… | אתה... |
+| You’ll forgive me— | תסלחו לי - |
+| You’re a witch… | את מכשפה... |
+| You’re encouraging him… | אתה מעודד אותו... |
+| You’re really close… | אתה ממש קרוב… |
+| You’re restoring all the pathways… | אתה משחזר את כל המעברים… |
+| You’re… | אתה... |
 | Young Magni and Modi | מאגני ומודי הצעירים |
+| Your work here… | העבודה שלך כאן... |
 | Yumi Yang | יומי יאנג |
 | Zoom | זום |
 | Zoom In | התקרב |
 | Zoom Out | התרחק |
 | Zoom Snap | הצמדת זום |
+| Þola!… | ת'ולה!... |

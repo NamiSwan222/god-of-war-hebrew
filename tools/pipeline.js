@@ -13,6 +13,7 @@ const { parseWad, writeWad, findEntry } = require('./wad');
 const { parseMsgs, writeMsgs, splitTags } = require('./msgs');
 const { toVisual, wrap, codes } = require('./rtl');
 const { applyHebrewFonts } = require('./font');
+const pua = require('./pua');
 
 const LANG_WAD = path.join('exec', 'wad', 'pc_le', 'r_lang_en.wad');
 const MSGS_ENTRY = 'MSGS_TXT';
@@ -135,7 +136,7 @@ function toGameValue(enValue, heText, config) {
   const isSubtitle = tags.startsWith('[[S:');
   const max = isSubtitle ? config.subtitleLineChars : config.textLineChars;
   const brk = tags ? '\n' : '\\n';
-  return tags + toVisual(wrap(heText, max || 0, brk));
+  return tags + pua.encode(toVisual(wrap(heText, max || 0, brk)));
 }
 
 function build(installDir, gameDir) {

@@ -8,6 +8,7 @@ const path = require('path');
 const crypto = require('crypto');
 const { execFileSync } = require('child_process');
 const { parseSmf, writeSmf } = require('./smf');
+const { toPua } = require('./pua');
 
 const TEX = 0x80a1001d; // texture payload entry type
 const DESC = 0x80210001; // texture descriptor entry type
@@ -78,7 +79,8 @@ function applyHebrewFonts(wad, root, chars, fontsConfig) {
     if (!tex || !desc) throw new Error(`font: no texture ${texName} for font ${smf.name}`);
 
     const have = new Set(smf.glyphs.map((g) => g.cp));
-    const missing = [...new Set(chars)].filter((c) => !have.has(c.codePointAt(0)) && c.trim());
+    // Hebrew letters are stored under PUA code points (see pua.js); render the Hebrew letter itself.
+    const missing = [...new Set(chars)].filter((c) => !have.has(toPua(c.codePointAt(0))) && c.trim());
     if (!missing.length) continue;
     const capH = smf.glyphs.find((g) => g.cp === 72).h / 8;
     const fontPath = path.isAbsolute(cfg.font) ? cfg.font : path.join(root, cfg.font);
@@ -104,7 +106,7 @@ function applyHebrewFonts(wad, root, chars, fontsConfig) {
         w: Math.round(g.right * 8),
         advance: Math.round(g.advance * 8),
         pad: 0,
-        cp: g.cp,
+        cp: toPua(g.cp),
         kernCount: 0,
         kernStart: 0,
       });
