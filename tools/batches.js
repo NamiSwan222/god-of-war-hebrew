@@ -103,8 +103,8 @@ function check(name) {
       continue;
     }
     if (codes(he) !== codes(it.en)) problems.push(`${it.k}: codes differ, en [${codes(it.en)}] he [${codes(he)}]`);
-    if (!/[א-ת]/.test(he)) problems.push(`${it.k}: no Hebrew letters`);
-    const latin = (pipeline.readable(he).replace(/\[[A-Za-z0-9_ ]+\]|%[0-9]*[a-z]|\\n/g, '').match(/[A-Za-z][A-Za-z']+/g) || []).filter((w) => !/^[A-Z0-9]{1,5}$/.test(w));
+    if (!/[א-ת]/.test(he) && pipeline.needsTranslation(it.en)) problems.push(`${it.k}: no Hebrew letters`);
+    const latin = (pipeline.readable(he).replace(/\\n/g, '').match(/[A-Za-z][A-Za-z']+/g) || []).filter((w) => !/^[A-Z0-9]{1,5}$/.test(w));
     if (latin.length) problems.push(`${it.k}: Latin words left: ${latin.join(' ')}`);
   }
   const extra = Object.keys(output).filter((k) => !input.items.some((it) => it.k === k));

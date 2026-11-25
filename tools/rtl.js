@@ -1,12 +1,12 @@
 // The game draws text left-to-right only, so Hebrew is stored "visually": each line reversed,
 // so it reads right-to-left on screen. Kept in normal order inside a line:
-//   Latin words/digits (R2, 100, DLSS), placeholders (%d, %0, %s), button tokens ([R3],
-//   [EvadeButton]), markup ([[...]], <...>, {...}). Brackets around Hebrew are mirrored.
+//   Latin words/digits (R2, 100, DLSS), placeholders (%d, %0, %s), button and icon tokens ([R3],
+//   [EvadeButton], [Icons:XP]), markup ([[...]], <...>, {...}). Brackets around Hebrew are mirrored.
 // Line breaks in the game text are a real newline or the two characters "\n" (UI strings);
 // both are kept as they are, and lines stay in their order. Text the game would wrap itself
 // would show its lines bottom-up, so wrap() breaks long lines first.
 
-const LTR_RUN = /\[\[[^\]]*\]\]|\[[A-Za-z0-9_ ]+\]|<[^>]*>|\{[^}]*\}|%[0-9]*[a-z]|%[0-9]+|[A-Za-z0-9][A-Za-z0-9.,:%'+\-/]*[A-Za-z0-9%]|[A-Za-z0-9]/g;
+const LTR_RUN = /\[\[[^\]]*\]\]|\[[A-Za-z0-9_ :]+\]|<[^>]*>|\{[^}]*\}|%[0-9]*[a-z]|%[0-9]+|[A-Za-z0-9][A-Za-z0-9.,:%'+\-/]*[A-Za-z0-9%]|[A-Za-z0-9]/g;
 const MIRROR = { '(': ')', ')': '(', '[': ']', ']': '[', '<': '>', '>': '<', '{': '}', '}': '{', '«': '»', '»': '«' };
 const BREAK = /(\\n\n|\\n|\n)/; // capture keeps the separators in split()
 
@@ -52,7 +52,7 @@ function wrap(text, maxChars, brk = '\n') {
 
 // Codes that must appear in a translation exactly as often as in the English.
 function codes(text) {
-  const found = text.match(/%[0-9]*[a-z]|%[0-9]+|\[[A-Za-z0-9_ ]+\]|\\n/g) || [];
+  const found = text.match(/%[0-9]*[a-z]|%[0-9]+|\[[A-Za-z0-9_ :]+\]|\\n/g) || [];
   return found.sort().join(' ');
 }
 

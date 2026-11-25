@@ -86,4 +86,6 @@ test('rtl: Hebrew reversed per line; codes, buttons, numbers and line breaks kep
   assert.strictEqual(toVisual('שורה א\nשורה ב'), 'א הרוש\nב הרוש');
   assert.strictEqual(wrap('אחת שתיים שלוש', 9, '\\n'), 'אחת שתיים\\nשלוש');
   assert.strictEqual(codes('Press [R3] %d \\n'), '%d [R3] \\n');
+  assert.strictEqual(toVisual('[Icons:STRENGTH] כוח'), 'חוכ [Icons:STRENGTH]');
+  assert.strictEqual(codes('Convert 100 [Icons:XP]'), '[Icons:XP]');
 });

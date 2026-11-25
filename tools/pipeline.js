@@ -42,9 +42,9 @@ function writeJson(file, data) {
 
 // Text the player reads, with markup removed. Empty result = nothing to translate.
 function readable(text) {
-  return text.replace(/\[\[[^\]]*\]\]|<[^>]*>|\{[^}]*\}/g, '').trim();
+  return text.replace(/\[\[[^\]]*\]\]|\[[A-Za-z0-9_ :]+\]|<[^>]*>|\{[^}]*\}|%[0-9]*[a-z]|%[0-9]+/g, '').trim();
 }
-const needsTranslation = (en) => /[A-Za-z]{2,}/.test(readable(splitTags(en).text));
+const needsTranslation = (en) => (readable(splitTags(en).text).match(/[A-Za-z][A-Za-z']+/g) || []).some((w) => !/^[A-Z0-9]{1,5}$/.test(w));
 
 function extract(installDir, gameDir) {
   const wadFile = path.join(installDir, LANG_WAD);

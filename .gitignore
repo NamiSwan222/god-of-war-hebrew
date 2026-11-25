@@ -6,3 +6,4 @@ out/
 # local build output
 tools/proxy/target/
 node_modules/
+tools/proxy/.cargo/
