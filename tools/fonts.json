@@ -1,0 +1,6 @@
+{
+  "_comment": "Hebrew source font per game font (SMF3 name). Paths are relative to the repo root; all are SIL OFL fonts in fonts/src. axes = variable-font settings; weight = px added to each side of the stroke (chosen to match the game font's stem width).",
+  "Sony": { "font": "fonts/src/NotoSansHebrew.ttf", "axes": { "wght": 500 }, "weight": 0 },
+  "Copperplate": { "font": "fonts/src/FrankRuhlLibre.ttf", "axes": { "wght": 600 }, "weight": 0.4 },
+  "GodOfWar": { "font": "fonts/src/DavidLibre-Bold.ttf", "weight": 0 }
+}

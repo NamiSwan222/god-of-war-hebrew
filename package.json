@@ -1,0 +1,13 @@
+{
+  "name": "god-of-war-hebrew",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hebrew translation of God of War (2018, PC) for the Tirgumim launcher - unofficial fan project",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test \"tools/test/*.test.js\"",
+    "extract": "node tools/cli.js extract",
+    "coverage": "node tools/cli.js coverage",
+    "build": "node tools/cli.js build"
+  }
+}

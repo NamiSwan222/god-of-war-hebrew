@@ -1,0 +1,8 @@
+# Built from the user's own install - contain the game's data. Never commit.
+work/
+pack/files/
+out/
+*.wad
+# local build output
+tools/proxy/target/
+node_modules/

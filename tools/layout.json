@@ -1,0 +1,5 @@
+{
+  "_comment": "Max characters per line for the build's own line wrapping (0 = no wrapping). The engine draws left to right, so a reversed Hebrew line that the engine wraps itself shows its lines in the wrong order. Tune these after the first in-game test.",
+  "subtitleLineChars": 48,
+  "textLineChars": 0
+}

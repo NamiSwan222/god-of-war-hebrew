@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.ttf binary
+*.wad binary
+*.dll binary

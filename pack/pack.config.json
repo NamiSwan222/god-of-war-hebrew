@@ -1,0 +1,18 @@
+{
+  "packId": "god-of-war-he",
+  "gameId": "god-of-war",
+  "version": "0.1.0",
+  "title": "God of War – עברית",
+  "authors": ["Tirgumim"],
+  "engine": "Santa Monica Studio engine",
+  "requiresAccount": false,
+  "gameVersions": [
+    { "name": "Steam build 11168363", "checks": [ { "path": "GoW.exe" } ] }
+  ],
+  "allowUnknownGameVersion": true,
+  "activation": { "mode": "args", "exe": "GoW.exe", "args": ["-tirgumim-he"], "via": "steam" },
+  "filesDir": "files",
+  "patches": [
+    { "path": "exec/wad/pc_le/r_lang_en.wad", "patched": "../work/build/r_lang_en.wad", "output": "tirgumim/he/r_lang_en.wad" }
+  ]
+}

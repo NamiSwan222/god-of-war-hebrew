@@ -1,0 +1,15 @@
+{
+  "id": "god-of-war",
+  "name": "God of War",
+  "nameHe": "גוד אוף וור",
+  "engine": "Santa Monica Studio engine",
+  "aboutHe": "תרגום מלא לעברית: תפריטים, הדרכות, ציוד, מיומנויות, יומן, מפה, כל הכתוביות והדיאלוגים. כולל גופן עברי וכתיבה מימין לשמאל. לגרסת Steam (2022). העברית פעילה רק כשמפעילים את המשחק מהמשגר.",
+  "detect": {
+    "steamAppId": "1593500",
+    "epicAppName": null,
+    "markerFile": "GoW.exe",
+    "processNames": ["GoW.exe"]
+  },
+  "pack": { "github": "NamiSwan222/god-of-war-hebrew", "tag": "god-of-war-*", "asset": "god-of-war-he-*.zip" },
+  "requires": []
+}
